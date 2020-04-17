@@ -1,0 +1,837 @@
+# Dieser Datensatz umfasst die bewohnten Wohnungen mit Wohnungsfläche sowie
+# Personenangaben der Bewohnerschaft zur Haushaltsstruktur, aufgegliedert für
+# mehrheitlich gemeinnützige und andere Eigentumsarten sowie Neubauart (z.B.
+# Ersatzneubau).
+
+# Die Daten stammen aus der Datenbank «Gebäude- und Wohnungsregister der Stadt
+# Zürich» (GWZ) und dem Bevölkerungsregister (BVS) von Statistik Stadt Zürich.
+# Die abgeglichenen Register werden seit 2014 laufend weitergeführt und
+# bereinigt.  Datenquelle :
+#
+# Datenquelle und detaillierte Beschreibung der Variablen:
+# https://data.stadt-zuerich.ch/dataset/bau_best_whg_pers_haush_quartier_neubauart_gemeinnuetzig_seit2014
+#
+"ReportJahr","StatistikJahr","QuarSort","QuarLang","HptEigGruppe","ArtErsatzneubau","AnzWhgBew","WohnFlBew","PersInWhgGT2","inHh_PamK","inHh_1ElK","inHh_UemK","inHh_1P","inHh_2P","inHh_EpoK","inHh_WGoK"
+2017,2014,10,"Altstadt","Im Stockwerkeigentum","Altbau (bis 2006)",265,20703,441,75,7,3,140,106,66,42
+2017,2015,10,"Altstadt","Im Stockwerkeigentum","Altbau (bis 2006)",265,21087,459,87,7,6,135,100,76,49
+2017,2016,10,"Altstadt","Im Stockwerkeigentum","Altbau (bis 2006)",277,21604,469,73,14,11,145,102,76,49
+2017,2014,10,"Altstadt","Öffentl./Genossenschaftl.","Altbau (bis 2006)",761,54700,1418,350,117,142,402,160,174,82
+2017,2015,10,"Altstadt","Öffentl./Genossenschaftl.","Altbau (bis 2006)",757,53684,1402,350,109,127,412,158,178,65
+2017,2016,10,"Altstadt","Öffentl./Genossenschaftl.","Altbau (bis 2006)",778,56280,1424,380,126,71,407,158,192,92
+2017,2014,10,"Altstadt","Übrige Eigentümerschaften","Altbau (bis 2006)",1864,136481,3032,421,90,112,1108,632,328,323
+2017,2015,10,"Altstadt","Übrige Eigentümerschaften","Altbau (bis 2006)",1870,137811,3030,416,74,122,1109,664,336,308
+2017,2016,10,"Altstadt","Übrige Eigentümerschaften","Altbau (bis 2006)",1875,137806,3052,436,74,95,1104,644,322,369
+2017,2015,10,"Altstadt","Übrige Eigentümerschaften","Neubau als Umnutzung",1,148,".",".",".",".",".",".",".","."
+2017,2016,10,"Altstadt","Übrige Eigentümerschaften","Neubau als Umnutzung",1,148,".",".",".",".",".",".",".","."
+2017,2014,10,"Altstadt","Übrige Eigentümerschaften","Neubau als Wohnersatz",4,418,11,3,3,0,0,2,0,3
+2017,2015,10,"Altstadt","Übrige Eigentümerschaften","Neubau als Wohnersatz",4,418,12,3,3,0,0,2,0,4
+2017,2016,10,"Altstadt","Übrige Eigentümerschaften","Neubau als Wohnersatz",4,418,9,".",".",".",".",".",".","."
+2017,2014,21,"Wollishofen","Im Stockwerkeigentum","Altbau (bis 2006)",437,45547,873,241,36,76,177,92,214,34
+2017,2015,21,"Wollishofen","Im Stockwerkeigentum","Altbau (bis 2006)",447,46820,909,265,35,64,176,80,220,61
+2017,2016,21,"Wollishofen","Im Stockwerkeigentum","Altbau (bis 2006)",450,47342,910,284,23,79,184,86,210,42
+2017,2014,21,"Wollishofen","Im Stockwerkeigentum","Neubau als Umnutzung",24,2927,44,18,0,0,12,4,10,0
+2017,2015,21,"Wollishofen","Im Stockwerkeigentum","Neubau als Umnutzung",25,2964,46,18,0,0,12,4,12,0
+2017,2016,21,"Wollishofen","Im Stockwerkeigentum","Neubau als Umnutzung",32,4013,67,27,0,0,12,2,18,3
+2017,2014,21,"Wollishofen","Im Stockwerkeigentum","Neubau als Wohnersatz",60,7651,151,89,2,7,21,10,22,0
+2017,2015,21,"Wollishofen","Im Stockwerkeigentum","Neubau als Wohnersatz",62,7859,164,93,4,11,16,14,18,6
+2017,2016,21,"Wollishofen","Im Stockwerkeigentum","Neubau als Wohnersatz",64,8200,174,105,5,16,18,10,16,0
+2017,2014,21,"Wollishofen","Im Stockwerkeigentum","Neubau auf unbebautem Land",2,337,".",".",".",".",".",".",".","."
+2017,2015,21,"Wollishofen","Im Stockwerkeigentum","Neubau auf unbebautem Land",2,337,".",".",".",".",".",".",".","."
+2017,2016,21,"Wollishofen","Im Stockwerkeigentum","Neubau auf unbebautem Land",2,337,".",".",".",".",".",".",".","."
+2017,2014,21,"Wollishofen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2450,177498,5005,1766,626,278,1049,416,730,141
+2017,2015,21,"Wollishofen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2288,165132,4637,1724,509,245,1012,336,688,127
+2017,2016,21,"Wollishofen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2325,167737,4762,1788,516,275,1024,356,688,107
+2017,2014,21,"Wollishofen","Öffentl./Genossenschaftl.","Neubau als Umnutzung",25,2610,70,21,2,26,9,2,6,4
+2017,2015,21,"Wollishofen","Öffentl./Genossenschaftl.","Neubau als Umnutzung",22,2286,71,14,0,36,8,0,6,7
+2017,2016,21,"Wollishofen","Öffentl./Genossenschaftl.","Neubau als Umnutzung",28,2977,72,32,5,14,9,4,8,0
+2017,2014,21,"Wollishofen","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",91,9262,248,172,18,0,16,12,38,0
+2017,2015,21,"Wollishofen","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",229,22095,623,361,64,45,52,24,72,3
+2017,2016,21,"Wollishofen","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",288,27532,790,491,78,36,61,44,80,0
+2017,2014,21,"Wollishofen","Übrige Eigentümerschaften","Altbau (bis 2006)",4696,377696,8523,2137,357,581,2418,1428,1100,508
+2017,2015,21,"Wollishofen","Übrige Eigentümerschaften","Altbau (bis 2006)",4676,375148,8572,2232,358,494,2375,1472,1062,547
+2017,2016,21,"Wollishofen","Übrige Eigentümerschaften","Altbau (bis 2006)",4691,379181,8577,2224,400,472,2388,1374,1112,576
+2017,2014,21,"Wollishofen","Übrige Eigentümerschaften","Neubau als Umnutzung",15,1307,30,3,0,4,3,12,8,0
+2017,2015,21,"Wollishofen","Übrige Eigentümerschaften","Neubau als Umnutzung",15,1307,25,3,2,0,6,6,8,0
+2017,2016,21,"Wollishofen","Übrige Eigentümerschaften","Neubau als Umnutzung",14,1247,28,9,2,4,5,4,4,0
+2017,2014,21,"Wollishofen","Übrige Eigentümerschaften","Neubau als Wohnersatz",108,11466,254,135,2,9,34,36,24,14
+2017,2015,21,"Wollishofen","Übrige Eigentümerschaften","Neubau als Wohnersatz",163,17554,378,162,10,25,44,60,50,23
+2017,2016,21,"Wollishofen","Übrige Eigentümerschaften","Neubau als Wohnersatz",178,19099,397,163,17,21,49,68,56,17
+2017,2014,21,"Wollishofen","Übrige Eigentümerschaften","Neubau auf unbebautem Land",19,2308,42,20,0,0,4,10,8,0
+2017,2015,21,"Wollishofen","Übrige Eigentümerschaften","Neubau auf unbebautem Land",18,2228,38,15,0,5,7,6,6,0
+2017,2016,21,"Wollishofen","Übrige Eigentümerschaften","Neubau auf unbebautem Land",19,2308,42,14,3,5,7,8,4,0
+2017,2014,23,"Leimbach","Im Stockwerkeigentum","Altbau (bis 2006)",195,19318,375,99,11,22,74,34,134,3
+2017,2015,23,"Leimbach","Im Stockwerkeigentum","Altbau (bis 2006)",199,19637,390,97,11,31,78,36,128,6
+2017,2016,23,"Leimbach","Im Stockwerkeigentum","Altbau (bis 2006)",195,19051,374,105,11,21,76,36,122,3
+2017,2015,23,"Leimbach","Im Stockwerkeigentum","Neubau als Wohnersatz",8,863,16,6,0,0,2,0,6,0
+2017,2016,23,"Leimbach","Im Stockwerkeigentum","Neubau als Wohnersatz",12,1179,25,15,2,0,4,2,2,0
+2017,2014,23,"Leimbach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",997,80897,2624,1171,261,335,326,92,310,137
+2017,2015,23,"Leimbach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1002,81387,2647,1178,264,377,327,94,294,111
+2017,2016,23,"Leimbach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1050,84977,2691,1277,301,254,343,114,316,82
+2017,2014,23,"Leimbach","Öffentl./Genossenschaftl.","Neubau als Umnutzung",133,12245,294,81,2,22,32,80,28,52
+2017,2015,23,"Leimbach","Öffentl./Genossenschaftl.","Neubau als Umnutzung",179,16013,424,122,0,39,40,100,34,91
+2017,2016,23,"Leimbach","Öffentl./Genossenschaftl.","Neubau als Umnutzung",182,16260,441,129,0,55,39,98,36,82
+2017,2014,23,"Leimbach","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",103,10155,317,244,11,12,17,8,22,3
+2017,2015,23,"Leimbach","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",102,10044,311,217,25,21,18,10,18,3
+2017,2016,23,"Leimbach","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",102,10053,296,215,25,4,19,8,26,0
+2017,2014,23,"Leimbach","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",26,2136,52,28,0,4,16,4,0,0
+2017,2015,23,"Leimbach","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",29,2311,53,28,5,0,20,0,0,0
+2017,2016,23,"Leimbach","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",30,2372,56,28,5,0,19,4,0,0
+2017,2014,23,"Leimbach","Übrige Eigentümerschaften","Altbau (bis 2006)",969,83155,2050,723,82,153,385,256,330,121
+2017,2015,23,"Leimbach","Übrige Eigentümerschaften","Altbau (bis 2006)",955,81489,2111,826,91,157,361,240,306,127
+2017,2016,23,"Leimbach","Übrige Eigentümerschaften","Altbau (bis 2006)",948,81164,2122,812,130,186,367,236,268,114
+2017,2014,23,"Leimbach","Übrige Eigentümerschaften","Neubau als Umnutzung",10,838,18,4,0,3,4,8,0,0
+2017,2015,23,"Leimbach","Übrige Eigentümerschaften","Neubau als Umnutzung",9,741,15,4,0,0,5,6,0,0
+2017,2016,23,"Leimbach","Übrige Eigentümerschaften","Neubau als Umnutzung",9,757,17,4,0,0,4,4,2,3
+2017,2014,23,"Leimbach","Übrige Eigentümerschaften","Neubau als Wohnersatz",1,159,".",".",".",".",".",".",".","."
+2017,2015,23,"Leimbach","Übrige Eigentümerschaften","Neubau als Wohnersatz",2,341,6,".",".",".",".",".",".","."
+2017,2016,23,"Leimbach","Übrige Eigentümerschaften","Neubau als Wohnersatz",2,341,8,".",".",".",".",".",".","."
+2017,2016,23,"Leimbach","Übrige Eigentümerschaften","Neubau auf unbebautem Land",1,213,4,".",".",".",".",".",".","."
+2017,2014,24,"Enge","Im Stockwerkeigentum","Altbau (bis 2006)",422,45856,927,311,26,108,161,100,162,55
+2017,2015,24,"Enge","Im Stockwerkeigentum","Altbau (bis 2006)",420,45337,902,302,28,96,165,94,162,50
+2017,2016,24,"Enge","Im Stockwerkeigentum","Altbau (bis 2006)",441,47233,953,298,33,123,175,96,156,73
+2017,2016,24,"Enge","Im Stockwerkeigentum","Neubau als Umnutzung",10,1059,17,3,0,0,5,4,2,3
+2017,2014,24,"Enge","Im Stockwerkeigentum","Neubau auf unbebautem Land",16,2870,44,20,0,9,5,6,4,0
+2017,2015,24,"Enge","Im Stockwerkeigentum","Neubau auf unbebautem Land",20,3189,51,17,0,13,6,8,6,0
+2017,2016,24,"Enge","Im Stockwerkeigentum","Neubau auf unbebautem Land",33,4332,81,35,0,11,12,12,10,0
+2017,2014,24,"Enge","Öffentl./Genossenschaftl.","Altbau (bis 2006)",348,25666,751,261,100,49,127,88,84,46
+2017,2015,24,"Enge","Öffentl./Genossenschaftl.","Altbau (bis 2006)",349,25731,779,281,99,54,124,94,80,42
+2017,2016,24,"Enge","Öffentl./Genossenschaftl.","Altbau (bis 2006)",348,25837,769,312,90,38,134,66,78,55
+2017,2014,24,"Enge","Übrige Eigentümerschaften","Altbau (bis 2006)",3415,303124,6670,1791,182,445,1584,1168,826,668
+2017,2015,24,"Enge","Übrige Eigentümerschaften","Altbau (bis 2006)",3415,304665,6696,1796,209,455,1628,1162,748,672
+2017,2016,24,"Enge","Übrige Eigentümerschaften","Altbau (bis 2006)",3410,301122,6642,1767,197,461,1637,1172,744,658
+2017,2016,24,"Enge","Übrige Eigentümerschaften","Neubau als Umnutzung",1,200,4,".",".",".",".",".",".","."
+2017,2014,24,"Enge","Übrige Eigentümerschaften","Neubau als Wohnersatz",102,9954,208,84,4,0,32,44,42,3
+2017,2015,24,"Enge","Übrige Eigentümerschaften","Neubau als Wohnersatz",192,18631,403,181,11,3,67,74,56,10
+2017,2016,24,"Enge","Übrige Eigentümerschaften","Neubau als Wohnersatz",196,19093,421,187,11,17,62,86,48,12
+2017,2014,24,"Enge","Übrige Eigentümerschaften","Neubau auf unbebautem Land",1,180,".",".",".",".",".",".",".","."
+2017,2015,24,"Enge","Übrige Eigentümerschaften","Neubau auf unbebautem Land",1,180,".",".",".",".",".",".",".","."
+2017,2016,24,"Enge","Übrige Eigentümerschaften","Neubau auf unbebautem Land",1,180,".",".",".",".",".",".",".","."
+2017,2014,31,"Alt-Wiedikon","Im Stockwerkeigentum","Altbau (bis 2006)",472,40209,933,225,35,86,192,156,170,71
+2017,2015,31,"Alt-Wiedikon","Im Stockwerkeigentum","Altbau (bis 2006)",463,39730,967,217,36,157,185,168,132,72
+2017,2016,31,"Alt-Wiedikon","Im Stockwerkeigentum","Altbau (bis 2006)",478,40722,980,225,29,135,196,174,128,91
+2017,2014,31,"Alt-Wiedikon","Im Stockwerkeigentum","Neubau als Umnutzung",224,27375,580,255,8,93,68,76,62,21
+2017,2015,31,"Alt-Wiedikon","Im Stockwerkeigentum","Neubau als Umnutzung",242,29448,623,260,6,100,79,74,62,39
+2017,2016,31,"Alt-Wiedikon","Im Stockwerkeigentum","Neubau als Umnutzung",239,29222,673,269,11,138,70,68,48,70
+2017,2014,31,"Alt-Wiedikon","Im Stockwerkeigentum","Neubau als Wohnersatz",51,5827,122,51,9,9,14,10,8,22
+2017,2015,31,"Alt-Wiedikon","Im Stockwerkeigentum","Neubau als Wohnersatz",48,5495,113,51,9,9,14,12,8,10
+2017,2016,31,"Alt-Wiedikon","Im Stockwerkeigentum","Neubau als Wohnersatz",48,5542,119,48,9,14,12,16,10,10
+2017,2014,31,"Alt-Wiedikon","Im Stockwerkeigentum","Neubau auf unbebautem Land",8,1200,25,14,0,7,1,0,0,3
+2017,2015,31,"Alt-Wiedikon","Im Stockwerkeigentum","Neubau auf unbebautem Land",8,1200,26,15,0,7,1,0,0,3
+2017,2016,31,"Alt-Wiedikon","Im Stockwerkeigentum","Neubau auf unbebautem Land",7,1054,27,8,0,18,1,0,0,0
+2017,2014,31,"Alt-Wiedikon","Öffentl./Genossenschaftl.","Altbau (bis 2006)",738,51650,1504,428,97,225,377,164,140,79
+2017,2015,31,"Alt-Wiedikon","Öffentl./Genossenschaftl.","Altbau (bis 2006)",738,51786,1521,459,78,236,383,164,130,66
+2017,2016,31,"Alt-Wiedikon","Öffentl./Genossenschaftl.","Altbau (bis 2006)",757,52909,1560,491,110,221,380,172,122,62
+2017,2014,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Altbau (bis 2006)",6832,487027,12628,2891,359,1033,3492,2534,1198,1091
+2017,2015,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Altbau (bis 2006)",6877,492259,12733,3050,332,929,3486,2672,1192,1055
+2017,2016,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Altbau (bis 2006)",6938,494568,12927,3045,336,1013,3502,2648,1216,1142
+2017,2014,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Neubau als Umnutzung",126,14651,317,122,6,34,20,66,40,31
+2017,2015,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Neubau als Umnutzung",129,14807,323,139,4,24,24,64,46,15
+2017,2016,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Neubau als Umnutzung",128,14941,330,167,0,23,23,54,44,24
+2017,2014,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Neubau als Wohnersatz",87,8978,199,80,0,12,24,36,32,14
+2017,2015,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Neubau als Wohnersatz",96,9667,218,97,0,11,25,44,28,14
+2017,2016,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Neubau als Wohnersatz",97,9761,223,100,0,11,27,46,26,13
+2017,2014,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Neubau auf unbebautem Land",36,3626,59,3,0,0,19,24,2,11
+2017,2015,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Neubau auf unbebautem Land",38,3792,64,7,0,0,20,20,8,6
+2017,2016,31,"Alt-Wiedikon","Übrige Eigentümerschaften","Neubau auf unbebautem Land",37,3618,65,3,0,0,16,18,10,18
+2017,2014,33,"Friesenberg","Im Stockwerkeigentum","Altbau (bis 2006)",133,12893,258,74,13,30,67,32,24,16
+2017,2015,33,"Friesenberg","Im Stockwerkeigentum","Altbau (bis 2006)",145,14202,278,98,10,26,75,34,26,9
+2017,2016,33,"Friesenberg","Im Stockwerkeigentum","Altbau (bis 2006)",149,14413,288,92,13,34,74,44,18,13
+2017,2014,33,"Friesenberg","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2656,210533,7259,3965,774,576,697,258,818,154
+2017,2015,33,"Friesenberg","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2650,209800,7195,4009,794,509,711,250,814,110
+2017,2016,33,"Friesenberg","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2640,209333,7160,4059,793,483,732,204,786,104
+2017,2014,33,"Friesenberg","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",151,15667,482,336,22,22,11,12,80,0
+2017,2015,33,"Friesenberg","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",151,15667,482,338,25,15,11,12,78,4
+2017,2016,33,"Friesenberg","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",313,28630,853,533,55,23,62,40,128,11
+2017,2014,33,"Friesenberg","Übrige Eigentümerschaften","Altbau (bis 2006)",924,68441,1755,495,75,95,412,302,262,104
+2017,2015,33,"Friesenberg","Übrige Eigentümerschaften","Altbau (bis 2006)",911,68116,1783,535,59,132,400,308,244,105
+2017,2016,33,"Friesenberg","Übrige Eigentümerschaften","Altbau (bis 2006)",906,67473,1778,511,59,134,407,284,250,134
+2017,2014,33,"Friesenberg","Übrige Eigentümerschaften","Neubau als Wohnersatz",99,10623,256,131,3,25,23,34,32,8
+2017,2015,33,"Friesenberg","Übrige Eigentümerschaften","Neubau als Wohnersatz",97,10424,248,132,3,10,21,36,32,13
+2017,2016,33,"Friesenberg","Übrige Eigentümerschaften","Neubau als Wohnersatz",103,11153,268,155,6,4,24,36,24,17
+2017,2014,33,"Friesenberg","Übrige Eigentümerschaften","Neubau auf unbebautem Land",48,5858,121,53,6,11,8,14,22,7
+2017,2015,33,"Friesenberg","Übrige Eigentümerschaften","Neubau auf unbebautem Land",49,6001,126,60,6,4,8,16,20,7
+2017,2016,33,"Friesenberg","Übrige Eigentümerschaften","Neubau auf unbebautem Land",48,5858,130,70,6,4,6,16,20,8
+2017,2014,34,"Sihlfeld","Im Stockwerkeigentum","Altbau (bis 2006)",442,33820,986,211,19,178,202,164,92,130
+2017,2015,34,"Sihlfeld","Im Stockwerkeigentum","Altbau (bis 2006)",434,33070,987,202,16,195,191,174,82,124
+2017,2016,34,"Sihlfeld","Im Stockwerkeigentum","Altbau (bis 2006)",447,34122,1021,205,14,196,189,186,90,136
+2017,2014,34,"Sihlfeld","Im Stockwerkeigentum","Neubau als Wohnersatz",13,1664,40,14,0,6,2,4,0,15
+2017,2015,34,"Sihlfeld","Im Stockwerkeigentum","Neubau als Wohnersatz",18,2247,53,17,0,17,2,6,4,7
+2017,2016,34,"Sihlfeld","Im Stockwerkeigentum","Neubau als Wohnersatz",18,2247,54,17,0,22,3,6,6,0
+2017,2014,34,"Sihlfeld","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2722,182184,5374,1554,594,475,1239,632,592,291
+2017,2015,34,"Sihlfeld","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2736,183211,5372,1616,595,425,1260,630,614,234
+2017,2016,34,"Sihlfeld","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2675,178738,5234,1653,594,366,1238,610,582,201
+2017,2014,34,"Sihlfeld","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",310,30522,902,623,32,50,42,94,46,23
+2017,2015,34,"Sihlfeld","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",312,30730,916,636,24,58,47,88,48,18
+2017,2016,34,"Sihlfeld","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",312,30730,939,658,36,62,48,68,42,25
+2017,2014,34,"Sihlfeld","Übrige Eigentümerschaften","Altbau (bis 2006)",7108,474361,12786,2403,377,866,3693,3040,1034,1326
+2017,2015,34,"Sihlfeld","Übrige Eigentümerschaften","Altbau (bis 2006)",7166,477665,12835,2372,370,885,3768,3042,994,1321
+2017,2016,34,"Sihlfeld","Übrige Eigentümerschaften","Altbau (bis 2006)",7235,480694,12867,2350,343,846,3796,3198,988,1303
+2017,2014,34,"Sihlfeld","Übrige Eigentümerschaften","Neubau als Wohnersatz",52,4415,139,82,2,14,16,24,2,0
+2017,2015,34,"Sihlfeld","Übrige Eigentümerschaften","Neubau als Wohnersatz",68,5518,157,58,4,21,26,38,4,6
+2017,2016,34,"Sihlfeld","Übrige Eigentümerschaften","Neubau als Wohnersatz",68,5521,162,72,6,12,27,34,4,7
+2017,2014,34,"Sihlfeld","Übrige Eigentümerschaften","Neubau auf unbebautem Land",35,2715,60,4,2,0,12,40,2,0
+2017,2015,34,"Sihlfeld","Übrige Eigentümerschaften","Neubau auf unbebautem Land",55,4859,95,3,2,0,19,46,18,6
+2017,2016,34,"Sihlfeld","Übrige Eigentümerschaften","Neubau auf unbebautem Land",56,5004,99,9,2,0,16,46,22,6
+2017,2014,41,"Werd","Im Stockwerkeigentum","Altbau (bis 2006)",64,5778,131,26,3,0,20,32,26,25
+2017,2015,41,"Werd","Im Stockwerkeigentum","Altbau (bis 2006)",64,5841,130,32,3,3,22,26,24,20
+2017,2016,41,"Werd","Im Stockwerkeigentum","Altbau (bis 2006)",67,6152,140,33,3,10,25,22,28,20
+2017,2014,41,"Werd","Im Stockwerkeigentum","Neubau als Wohnersatz",4,398,7,".",".",".",".",".",".","."
+2017,2015,41,"Werd","Im Stockwerkeigentum","Neubau als Wohnersatz",6,528,10,3,0,0,3,2,2,0
+2017,2016,41,"Werd","Im Stockwerkeigentum","Neubau als Wohnersatz",6,528,9,".",".",".",".",".",".","."
+2017,2014,41,"Werd","Öffentl./Genossenschaftl.","Altbau (bis 2006)",118,10182,281,69,9,26,32,52,26,65
+2017,2015,41,"Werd","Öffentl./Genossenschaftl.","Altbau (bis 2006)",126,10678,287,78,9,32,46,44,22,54
+2017,2016,41,"Werd","Öffentl./Genossenschaftl.","Altbau (bis 2006)",124,10613,287,88,9,27,43,46,22,52
+2017,2014,41,"Werd","Öffentl./Genossenschaftl.","Neubau als Umnutzung",53,7336,239,78,11,65,1,12,10,61
+2017,2015,41,"Werd","Öffentl./Genossenschaftl.","Neubau als Umnutzung",53,7336,252,76,10,75,1,10,10,68
+2017,2016,41,"Werd","Öffentl./Genossenschaftl.","Neubau als Umnutzung",53,7336,256,62,13,109,2,8,8,55
+2017,2014,41,"Werd","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",9,672,25,12,0,5,1,4,4,0
+2017,2015,41,"Werd","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",9,672,25,12,0,5,2,4,2,0
+2017,2016,41,"Werd","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",9,672,24,15,0,0,1,4,4,0
+2017,2014,41,"Werd","Übrige Eigentümerschaften","Altbau (bis 2006)",1736,121478,3390,729,65,290,873,720,202,504
+2017,2015,41,"Werd","Übrige Eigentümerschaften","Altbau (bis 2006)",1749,121434,3432,724,75,303,871,740,214,503
+2017,2016,41,"Werd","Übrige Eigentümerschaften","Altbau (bis 2006)",1774,123404,3472,808,68,267,872,784,212,458
+2017,2014,41,"Werd","Übrige Eigentümerschaften","Neubau als Wohnersatz",13,1144,27,0,0,5,4,10,2,6
+2017,2015,41,"Werd","Übrige Eigentümerschaften","Neubau als Wohnersatz",13,1115,27,6,0,5,5,8,0,3
+2017,2016,41,"Werd","Übrige Eigentümerschaften","Neubau als Wohnersatz",51,4602,105,21,0,10,13,34,24,3
+2017,2016,41,"Werd","Übrige Eigentümerschaften","Neubau auf unbebautem Land",1,154,".",".",".",".",".",".",".","."
+2017,2014,42,"Langstrasse","Im Stockwerkeigentum","Altbau (bis 2006)",322,19935,533,39,8,8,170,156,52,99
+2017,2015,42,"Langstrasse","Im Stockwerkeigentum","Altbau (bis 2006)",359,22325,570,45,10,17,209,140,60,71
+2017,2016,42,"Langstrasse","Im Stockwerkeigentum","Altbau (bis 2006)",361,22603,585,46,12,19,203,138,60,105
+2017,2014,42,"Langstrasse","Im Stockwerkeigentum","Neubau als Umnutzung",8,699,17,5,0,4,4,4,0,0
+2017,2015,42,"Langstrasse","Im Stockwerkeigentum","Neubau als Umnutzung",7,624,14,0,0,5,3,6,0,0
+2017,2016,42,"Langstrasse","Im Stockwerkeigentum","Neubau als Umnutzung",8,699,16,0,0,5,3,8,0,0
+2017,2014,42,"Langstrasse","Im Stockwerkeigentum","Neubau als Wohnersatz",35,4220,72,12,3,0,10,28,10,9
+2017,2015,42,"Langstrasse","Im Stockwerkeigentum","Neubau als Wohnersatz",38,4581,71,14,3,0,12,30,10,0
+2017,2016,42,"Langstrasse","Im Stockwerkeigentum","Neubau als Wohnersatz",38,4585,73,10,5,0,12,28,8,9
+2017,2015,42,"Langstrasse","Im Stockwerkeigentum","Neubau auf unbebautem Land",32,4572,54,7,0,0,13,14,20,0
+2017,2016,42,"Langstrasse","Im Stockwerkeigentum","Neubau auf unbebautem Land",37,5124,63,10,0,0,15,18,18,3
+2017,2014,42,"Langstrasse","Öffentl./Genossenschaftl.","Altbau (bis 2006)",649,47135,1309,319,56,102,287,250,108,188
+2017,2015,42,"Langstrasse","Öffentl./Genossenschaftl.","Altbau (bis 2006)",648,47014,1316,357,62,61,272,264,118,171
+2017,2016,42,"Langstrasse","Öffentl./Genossenschaftl.","Altbau (bis 2006)",645,46778,1324,340,58,92,269,236,120,211
+2017,2014,42,"Langstrasse","Öffentl./Genossenschaftl.","Neubau als Umnutzung",28,1614,35,0,0,0,20,2,12,0
+2017,2015,42,"Langstrasse","Öffentl./Genossenschaftl.","Neubau als Umnutzung",27,1569,36,0,0,0,18,4,14,0
+2017,2016,42,"Langstrasse","Öffentl./Genossenschaftl.","Neubau als Umnutzung",28,1614,34,0,0,0,22,2,10,0
+2017,2014,42,"Langstrasse","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",57,5541,121,50,3,11,21,32,2,3
+2017,2015,42,"Langstrasse","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",57,5615,133,65,2,10,17,28,2,9
+2017,2016,42,"Langstrasse","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",57,5595,136,68,5,15,19,22,4,3
+2017,2014,42,"Langstrasse","Übrige Eigentümerschaften","Altbau (bis 2006)",4261,278119,7565,932,160,465,2174,2086,494,1254
+2017,2015,42,"Langstrasse","Übrige Eigentümerschaften","Altbau (bis 2006)",4306,278402,7713,852,165,492,2173,2158,472,1377
+2017,2016,42,"Langstrasse","Übrige Eigentümerschaften","Altbau (bis 2006)",4371,282971,7634,859,170,354,2294,2086,498,1367
+2017,2014,42,"Langstrasse","Übrige Eigentümerschaften","Neubau als Umnutzung",67,6854,128,3,0,4,21,46,16,36
+2017,2015,42,"Langstrasse","Übrige Eigentümerschaften","Neubau als Umnutzung",75,7437,143,0,0,4,25,52,14,44
+2017,2016,42,"Langstrasse","Übrige Eigentümerschaften","Neubau als Umnutzung",100,9609,189,7,2,5,36,78,14,46
+2017,2015,42,"Langstrasse","Übrige Eigentümerschaften","Neubau als Wohnersatz",4,68,4,".",".",".",".",".",".","."
+2017,2016,42,"Langstrasse","Übrige Eigentümerschaften","Neubau als Wohnersatz",14,951,23,0,0,0,7,8,4,3
+2017,2015,42,"Langstrasse","Übrige Eigentümerschaften","Neubau auf unbebautem Land",7,536,9,".",".",".",".",".",".","."
+2017,2016,42,"Langstrasse","Übrige Eigentümerschaften","Neubau auf unbebautem Land",12,887,15,3,0,0,10,0,2,0
+2017,2014,44,"Hard","Im Stockwerkeigentum","Altbau (bis 2006)",182,11082,346,44,14,32,82,70,34,67
+2017,2015,44,"Hard","Im Stockwerkeigentum","Altbau (bis 2006)",179,11023,335,43,10,27,81,86,30,59
+2017,2016,44,"Hard","Im Stockwerkeigentum","Altbau (bis 2006)",177,10952,328,37,12,42,84,74,32,50
+2017,2014,44,"Hard","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2841,184491,5723,1615,502,571,1280,790,530,433
+2017,2015,44,"Hard","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2910,189354,5854,1716,523,475,1297,815,542,470
+2017,2016,44,"Hard","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2921,189560,5769,1813,524,341,1339,808,520,433
+2017,2014,44,"Hard","Öffentl./Genossenschaftl.","Neubau als Umnutzung",42,3502,91,20,4,12,14,18,6,19
+2017,2015,44,"Hard","Öffentl./Genossenschaftl.","Neubau als Umnutzung",40,3342,93,16,4,18,15,18,4,19
+2017,2016,44,"Hard","Öffentl./Genossenschaftl.","Neubau als Umnutzung",48,3877,90,7,2,13,22,24,10,12
+2017,2014,44,"Hard","Übrige Eigentümerschaften","Altbau (bis 2006)",3135,209871,6336,1503,253,614,1342,1276,532,807
+2017,2015,44,"Hard","Übrige Eigentümerschaften","Altbau (bis 2006)",3056,204809,6125,1460,246,544,1316,1264,504,781
+2017,2016,44,"Hard","Übrige Eigentümerschaften","Altbau (bis 2006)",3086,204457,6059,1402,260,484,1345,1298,512,738
+2017,2014,44,"Hard","Übrige Eigentümerschaften","Neubau als Umnutzung",112,9281,169,6,4,5,63,52,22,15
+2017,2015,44,"Hard","Übrige Eigentümerschaften","Neubau als Umnutzung",111,9192,174,13,4,5,61,54,26,12
+2017,2016,44,"Hard","Übrige Eigentümerschaften","Neubau als Umnutzung",112,9675,164,9,6,13,70,44,20,3
+2017,2014,44,"Hard","Übrige Eigentümerschaften","Neubau als Wohnersatz",13,1217,18,0,0,0,8,4,6,0
+2017,2015,44,"Hard","Übrige Eigentümerschaften","Neubau als Wohnersatz",12,1135,18,0,0,0,6,6,6,0
+2017,2016,44,"Hard","Übrige Eigentümerschaften","Neubau als Wohnersatz",22,2034,34,3,0,0,14,6,6,6
+2017,2014,44,"Hard","Übrige Eigentümerschaften","Neubau auf unbebautem Land",13,1143,30,3,0,0,4,8,0,15
+2017,2015,44,"Hard","Übrige Eigentümerschaften","Neubau auf unbebautem Land",14,1253,30,3,0,0,4,6,2,13
+2017,2016,44,"Hard","Übrige Eigentümerschaften","Neubau auf unbebautem Land",14,1253,30,6,0,0,5,4,2,13
+2017,2014,51,"Gewerbeschule","Im Stockwerkeigentum","Altbau (bis 2006)",258,18401,449,75,26,20,134,86,44,68
+2017,2015,51,"Gewerbeschule","Im Stockwerkeigentum","Altbau (bis 2006)",266,18821,462,66,22,29,141,96,44,63
+2017,2016,51,"Gewerbeschule","Im Stockwerkeigentum","Altbau (bis 2006)",304,20990,512,74,10,25,167,132,46,57
+2017,2014,51,"Gewerbeschule","Im Stockwerkeigentum","Neubau auf unbebautem Land",30,3145,50,10,3,0,16,14,6,0
+2017,2015,51,"Gewerbeschule","Im Stockwerkeigentum","Neubau auf unbebautem Land",26,2885,49,14,3,0,10,16,6,0
+2017,2016,51,"Gewerbeschule","Im Stockwerkeigentum","Neubau auf unbebautem Land",28,3025,51,9,3,0,9,22,8,0
+2017,2014,51,"Gewerbeschule","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1376,98764,2920,916,187,313,575,398,310,228
+2017,2015,51,"Gewerbeschule","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1405,100978,2983,952,177,284,586,408,328,256
+2017,2016,51,"Gewerbeschule","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1391,100233,2950,940,203,275,569,392,330,241
+2017,2014,51,"Gewerbeschule","Öffentl./Genossenschaftl.","Neubau als Umnutzung",21,2269,34,6,0,0,10,16,4,0
+2017,2015,51,"Gewerbeschule","Öffentl./Genossenschaftl.","Neubau als Umnutzung",21,2323,42,15,0,0,7,10,8,3
+2017,2016,51,"Gewerbeschule","Öffentl./Genossenschaftl.","Neubau als Umnutzung",22,2380,45,19,0,0,8,10,2,6
+2017,2014,51,"Gewerbeschule","Übrige Eigentümerschaften","Altbau (bis 2006)",2788,190641,5067,929,138,279,1353,1346,376,636
+2017,2015,51,"Gewerbeschule","Übrige Eigentümerschaften","Altbau (bis 2006)",2869,198216,5260,931,155,297,1364,1398,368,702
+2017,2016,51,"Gewerbeschule","Übrige Eigentümerschaften","Altbau (bis 2006)",2870,198513,5226,974,154,269,1387,1384,392,637
+2017,2014,51,"Gewerbeschule","Übrige Eigentümerschaften","Neubau auf unbebautem Land",4,600,11,7,0,0,0,0,4,0
+2017,2015,51,"Gewerbeschule","Übrige Eigentümerschaften","Neubau auf unbebautem Land",4,600,7,".",".",".",".",".",".","."
+2017,2016,51,"Gewerbeschule","Übrige Eigentümerschaften","Neubau auf unbebautem Land",4,600,7,".",".",".",".",".",".","."
+2017,2014,52,"Escher Wyss","Im Stockwerkeigentum","Altbau (bis 2006)",227,25172,414,70,2,29,103,106,66,39
+2017,2015,52,"Escher Wyss","Im Stockwerkeigentum","Altbau (bis 2006)",225,25140,407,64,4,26,99,110,72,30
+2017,2016,52,"Escher Wyss","Im Stockwerkeigentum","Altbau (bis 2006)",218,23926,397,74,4,31,100,94,70,25
+2017,2014,52,"Escher Wyss","Im Stockwerkeigentum","Neubau als Umnutzung",298,31905,529,87,7,33,126,174,96,19
+2017,2015,52,"Escher Wyss","Im Stockwerkeigentum","Neubau als Umnutzung",426,46342,755,114,9,36,186,212,122,55
+2017,2016,52,"Escher Wyss","Im Stockwerkeigentum","Neubau als Umnutzung",463,51098,865,154,12,36,176,266,148,71
+2017,2014,52,"Escher Wyss","Im Stockwerkeigentum","Neubau auf unbebautem Land",62,5807,116,18,0,16,28,20,20,14
+2017,2015,52,"Escher Wyss","Im Stockwerkeigentum","Neubau auf unbebautem Land",278,27479,525,41,11,24,105,162,70,104
+2017,2016,52,"Escher Wyss","Im Stockwerkeigentum","Neubau auf unbebautem Land",146,14680,284,54,0,8,54,64,52,51
+2017,2014,52,"Escher Wyss","Öffentl./Genossenschaftl.","Altbau (bis 2006)",150,14354,429,108,50,114,34,58,10,56
+2017,2015,52,"Escher Wyss","Öffentl./Genossenschaftl.","Altbau (bis 2006)",155,14595,437,120,46,116,41,52,8,45
+2017,2016,52,"Escher Wyss","Öffentl./Genossenschaftl.","Altbau (bis 2006)",157,14844,455,122,39,137,39,50,10,60
+2017,2016,52,"Escher Wyss","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",22,2192,42,0,0,0,3,28,8,4
+2017,2014,52,"Escher Wyss","Übrige Eigentümerschaften","Altbau (bis 2006)",1056,96289,2195,530,82,188,405,446,186,356
+2017,2015,52,"Escher Wyss","Übrige Eigentümerschaften","Altbau (bis 2006)",1081,97838,2213,569,101,116,412,482,180,346
+2017,2016,52,"Escher Wyss","Übrige Eigentümerschaften","Altbau (bis 2006)",1055,95641,2203,581,107,123,410,444,170,363
+2017,2014,52,"Escher Wyss","Übrige Eigentümerschaften","Neubau als Umnutzung",247,22490,432,56,2,3,115,146,34,77
+2017,2015,52,"Escher Wyss","Übrige Eigentümerschaften","Neubau als Umnutzung",314,28502,573,105,7,7,131,192,52,72
+2017,2016,52,"Escher Wyss","Übrige Eigentümerschaften","Neubau als Umnutzung",320,29085,621,107,7,17,114,198,72,107
+2017,2014,52,"Escher Wyss","Übrige Eigentümerschaften","Neubau auf unbebautem Land",182,16661,318,3,10,0,77,134,28,62
+2017,2015,52,"Escher Wyss","Übrige Eigentümerschaften","Neubau auf unbebautem Land",274,25233,525,16,9,20,88,224,36,124
+2017,2016,52,"Escher Wyss","Übrige Eigentümerschaften","Neubau auf unbebautem Land",423,39869,797,46,16,15,145,320,82,172
+2017,2014,61,"Unterstrass","Im Stockwerkeigentum","Altbau (bis 2006)",469,43436,983,278,25,127,181,190,116,72
+2017,2015,61,"Unterstrass","Im Stockwerkeigentum","Altbau (bis 2006)",481,44629,1025,300,21,108,176,196,112,104
+2017,2016,61,"Unterstrass","Im Stockwerkeigentum","Altbau (bis 2006)",496,46119,1041,297,27,122,190,202,122,80
+2017,2014,61,"Unterstrass","Im Stockwerkeigentum","Neubau als Umnutzung",8,808,15,3,0,0,2,6,4,0
+2017,2015,61,"Unterstrass","Im Stockwerkeigentum","Neubau als Umnutzung",55,7027,148,76,0,9,5,16,10,0
+2017,2016,61,"Unterstrass","Im Stockwerkeigentum","Neubau als Umnutzung",174,22511,448,258,7,23,30,68,60,3
+2017,2014,61,"Unterstrass","Im Stockwerkeigentum","Neubau als Wohnersatz",74,9910,220,151,10,9,12,16,14,9
+2017,2015,61,"Unterstrass","Im Stockwerkeigentum","Neubau als Wohnersatz",74,9949,219,152,10,10,14,12,18,3
+2017,2016,61,"Unterstrass","Im Stockwerkeigentum","Neubau als Wohnersatz",73,9794,214,158,10,0,13,10,20,3
+2017,2014,61,"Unterstrass","Im Stockwerkeigentum","Neubau auf unbebautem Land",36,3694,88,44,0,5,11,8,10,10
+2017,2015,61,"Unterstrass","Im Stockwerkeigentum","Neubau auf unbebautem Land",35,3596,97,47,0,19,7,8,10,6
+2017,2016,61,"Unterstrass","Im Stockwerkeigentum","Neubau auf unbebautem Land",37,3845,92,48,0,9,11,6,12,6
+2017,2014,61,"Unterstrass","Öffentl./Genossenschaftl.","Altbau (bis 2006)",3223,223099,6562,2355,694,379,1401,664,820,246
+2017,2015,61,"Unterstrass","Öffentl./Genossenschaftl.","Altbau (bis 2006)",3109,215681,6379,2320,638,352,1318,666,810,256
+2017,2016,61,"Unterstrass","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2997,208497,6101,2265,657,292,1297,596,778,201
+2017,2014,61,"Unterstrass","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",231,24494,878,630,57,91,30,14,44,12
+2017,2015,61,"Unterstrass","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",261,27091,937,668,74,73,41,20,58,8
+2017,2016,61,"Unterstrass","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",262,27210,934,673,84,56,37,18,64,3
+2017,2014,61,"Unterstrass","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",72,7462,203,113,5,17,15,18,10,26
+2017,2015,61,"Unterstrass","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",76,7927,204,135,4,8,17,20,10,10
+2017,2016,61,"Unterstrass","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",128,12190,329,196,46,7,30,28,16,11
+2017,2014,61,"Unterstrass","Übrige Eigentümerschaften","Altbau (bis 2006)",6588,505019,12347,2620,397,707,3101,2662,1300,1532
+2017,2015,61,"Unterstrass","Übrige Eigentümerschaften","Altbau (bis 2006)",6610,509029,12285,2762,401,584,3159,2612,1308,1433
+2017,2016,61,"Unterstrass","Übrige Eigentümerschaften","Altbau (bis 2006)",6755,517674,12351,2830,386,513,3291,2688,1320,1324
+2017,2014,61,"Unterstrass","Übrige Eigentümerschaften","Neubau als Umnutzung",35,3000,61,4,0,0,14,18,18,7
+2017,2015,61,"Unterstrass","Übrige Eigentümerschaften","Neubau als Umnutzung",36,3069,62,12,0,0,16,12,18,4
+2017,2016,61,"Unterstrass","Übrige Eigentümerschaften","Neubau als Umnutzung",36,3069,64,22,0,0,16,12,12,3
+2017,2014,61,"Unterstrass","Übrige Eigentümerschaften","Neubau als Wohnersatz",65,6331,128,33,0,7,26,26,16,19
+2017,2015,61,"Unterstrass","Übrige Eigentümerschaften","Neubau als Wohnersatz",77,7305,156,47,2,4,23,32,26,23
+2017,2016,61,"Unterstrass","Übrige Eigentümerschaften","Neubau als Wohnersatz",76,7154,166,64,2,0,23,32,14,28
+2017,2014,61,"Unterstrass","Übrige Eigentümerschaften","Neubau auf unbebautem Land",8,755,16,5,0,0,3,6,2,0
+2017,2015,61,"Unterstrass","Übrige Eigentümerschaften","Neubau auf unbebautem Land",8,755,17,5,0,0,2,10,0,0
+2017,2016,61,"Unterstrass","Übrige Eigentümerschaften","Neubau auf unbebautem Land",7,676,16,5,0,0,1,10,0,0
+2017,2014,63,"Oberstrass","Im Stockwerkeigentum","Altbau (bis 2006)",622,64672,1337,445,49,128,216,194,240,57
+2017,2015,63,"Oberstrass","Im Stockwerkeigentum","Altbau (bis 2006)",636,66379,1346,433,40,133,232,190,266,51
+2017,2016,63,"Oberstrass","Im Stockwerkeigentum","Altbau (bis 2006)",651,67831,1370,499,47,105,247,160,262,54
+2017,2014,63,"Oberstrass","Im Stockwerkeigentum","Neubau als Wohnersatz",19,2580,46,9,2,14,3,2,16,0
+2017,2015,63,"Oberstrass","Im Stockwerkeigentum","Neubau als Wohnersatz",24,3416,59,18,2,14,6,2,18,0
+2017,2016,63,"Oberstrass","Im Stockwerkeigentum","Neubau als Wohnersatz",25,3462,60,16,2,14,6,2,20,0
+2017,2014,63,"Oberstrass","Im Stockwerkeigentum","Neubau auf unbebautem Land",5,916,18,13,0,3,0,0,2,0
+2017,2015,63,"Oberstrass","Im Stockwerkeigentum","Neubau auf unbebautem Land",5,916,18,13,0,3,0,0,2,0
+2017,2016,63,"Oberstrass","Im Stockwerkeigentum","Neubau auf unbebautem Land",5,916,20,14,0,4,0,0,2,0
+2017,2014,63,"Oberstrass","Öffentl./Genossenschaftl.","Altbau (bis 2006)",674,52002,1525,578,157,104,267,128,148,138
+2017,2015,63,"Oberstrass","Öffentl./Genossenschaftl.","Altbau (bis 2006)",676,51986,1493,564,167,103,274,146,134,105
+2017,2016,63,"Oberstrass","Öffentl./Genossenschaftl.","Altbau (bis 2006)",714,54775,1532,595,161,95,300,146,146,82
+2017,2014,63,"Oberstrass","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",7,759,22,16,0,3,1,0,2,0
+2017,2015,63,"Oberstrass","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",7,759,23,19,0,3,1,0,0,0
+2017,2016,63,"Oberstrass","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",7,759,22,16,0,3,1,2,0,0
+2017,2014,63,"Oberstrass","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",10,833,17,7,2,0,6,2,0,0
+2017,2015,63,"Oberstrass","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",10,833,17,7,0,0,6,4,0,0
+2017,2016,63,"Oberstrass","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",10,833,16,3,2,0,5,6,0,0
+2017,2014,63,"Oberstrass","Übrige Eigentümerschaften","Altbau (bis 2006)",3524,305189,6726,1827,216,484,1753,1028,768,638
+2017,2015,63,"Oberstrass","Übrige Eigentümerschaften","Altbau (bis 2006)",3554,306266,6735,1808,222,466,1801,1042,742,626
+2017,2016,63,"Oberstrass","Übrige Eigentümerschaften","Altbau (bis 2006)",3621,313431,6803,1930,221,420,1844,1084,768,532
+2017,2014,63,"Oberstrass","Übrige Eigentümerschaften","Neubau als Wohnersatz",20,2186,46,25,0,4,7,4,6,0
+2017,2015,63,"Oberstrass","Übrige Eigentümerschaften","Neubau als Wohnersatz",25,2745,68,20,0,21,6,10,4,7
+2017,2016,63,"Oberstrass","Übrige Eigentümerschaften","Neubau als Wohnersatz",39,4299,89,30,0,10,8,28,10,3
+2017,2014,63,"Oberstrass","Übrige Eigentümerschaften","Neubau auf unbebautem Land",4,610,5,".",".",".",".",".",".","."
+2017,2015,63,"Oberstrass","Übrige Eigentümerschaften","Neubau auf unbebautem Land",3,479,4,".",".",".",".",".",".","."
+2017,2016,63,"Oberstrass","Übrige Eigentümerschaften","Neubau auf unbebautem Land",8,958,14,4,0,0,4,4,2,0
+2017,2014,71,"Fluntern","Im Stockwerkeigentum","Altbau (bis 2006)",696,81235,1434,400,86,108,265,152,322,102
+2017,2015,71,"Fluntern","Im Stockwerkeigentum","Altbau (bis 2006)",709,82968,1491,429,89,151,261,142,316,101
+2017,2016,71,"Fluntern","Im Stockwerkeigentum","Altbau (bis 2006)",720,83868,1545,449,102,186,259,136,328,85
+2017,2014,71,"Fluntern","Im Stockwerkeigentum","Neubau als Wohnersatz",29,5344,81,39,3,16,7,6,10,0
+2017,2015,71,"Fluntern","Im Stockwerkeigentum","Neubau als Wohnersatz",44,7476,125,56,5,26,10,14,8,3
+2017,2016,71,"Fluntern","Im Stockwerkeigentum","Neubau als Wohnersatz",63,9996,186,77,9,46,14,12,12,13
+2017,2014,71,"Fluntern","Im Stockwerkeigentum","Neubau auf unbebautem Land",7,1313,20,13,0,5,2,0,0,0
+2017,2015,71,"Fluntern","Im Stockwerkeigentum","Neubau auf unbebautem Land",9,1869,22,13,0,5,4,0,0,0
+2017,2016,71,"Fluntern","Im Stockwerkeigentum","Neubau auf unbebautem Land",9,1869,23,10,3,5,3,0,2,0
+2017,2014,71,"Fluntern","Öffentl./Genossenschaftl.","Altbau (bis 2006)",173,13422,377,85,30,30,58,56,46,57
+2017,2015,71,"Fluntern","Öffentl./Genossenschaftl.","Altbau (bis 2006)",106,8844,239,49,20,27,31,36,28,40
+2017,2016,71,"Fluntern","Öffentl./Genossenschaftl.","Altbau (bis 2006)",98,8011,208,48,12,14,42,22,18,54
+2017,2016,71,"Fluntern","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",52,4734,129,73,12,3,17,8,16,0
+2017,2014,71,"Fluntern","Übrige Eigentümerschaften","Altbau (bis 2006)",2394,262380,5037,1542,219,443,967,666,732,449
+2017,2015,71,"Fluntern","Übrige Eigentümerschaften","Altbau (bis 2006)",2417,262703,5088,1532,208,537,986,664,734,404
+2017,2016,71,"Fluntern","Übrige Eigentümerschaften","Altbau (bis 2006)",2414,261260,5069,1623,252,415,991,658,718,395
+2017,2014,71,"Fluntern","Übrige Eigentümerschaften","Neubau als Umnutzung",22,2592,57,38,0,0,7,4,8,0
+2017,2015,71,"Fluntern","Übrige Eigentümerschaften","Neubau als Umnutzung",21,2535,56,36,0,5,6,2,8,0
+2017,2016,71,"Fluntern","Übrige Eigentümerschaften","Neubau als Umnutzung",22,2648,57,41,0,0,8,0,8,0
+2017,2014,71,"Fluntern","Übrige Eigentümerschaften","Neubau als Wohnersatz",23,3347,51,12,0,14,9,4,12,0
+2017,2015,71,"Fluntern","Übrige Eigentümerschaften","Neubau als Wohnersatz",25,3766,52,11,0,14,11,4,12,0
+2017,2016,71,"Fluntern","Übrige Eigentümerschaften","Neubau als Wohnersatz",39,5298,78,15,2,12,14,18,14,3
+2017,2014,71,"Fluntern","Übrige Eigentümerschaften","Neubau auf unbebautem Land",52,6764,105,26,8,6,18,24,16,3
+2017,2015,71,"Fluntern","Übrige Eigentümerschaften","Neubau auf unbebautem Land",57,7628,110,39,8,0,23,24,16,0
+2017,2016,71,"Fluntern","Übrige Eigentümerschaften","Neubau auf unbebautem Land",57,7755,114,38,13,3,20,20,20,0
+2017,2014,72,"Hottingen","Im Stockwerkeigentum","Altbau (bis 2006)",741,80642,1479,430,64,134,309,174,280,89
+2017,2015,72,"Hottingen","Im Stockwerkeigentum","Altbau (bis 2006)",752,81880,1519,465,55,147,323,176,262,92
+2017,2016,72,"Hottingen","Im Stockwerkeigentum","Altbau (bis 2006)",768,83354,1563,427,52,179,325,186,288,103
+2017,2014,72,"Hottingen","Im Stockwerkeigentum","Neubau als Wohnersatz",13,2132,32,20,0,0,2,6,4,0
+2017,2015,72,"Hottingen","Im Stockwerkeigentum","Neubau als Wohnersatz",12,1958,31,19,0,0,2,6,4,0
+2017,2016,72,"Hottingen","Im Stockwerkeigentum","Neubau als Wohnersatz",16,2374,34,19,0,0,7,4,4,0
+2017,2014,72,"Hottingen","Im Stockwerkeigentum","Neubau auf unbebautem Land",2,464,3,".",".",".",".",".",".","."
+2017,2015,72,"Hottingen","Im Stockwerkeigentum","Neubau auf unbebautem Land",4,706,8,".",".",".",".",".",".","."
+2017,2016,72,"Hottingen","Im Stockwerkeigentum","Neubau auf unbebautem Land",6,900,11,4,0,0,3,0,4,0
+2017,2014,72,"Hottingen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",154,13607,392,167,22,60,42,26,56,17
+2017,2015,72,"Hottingen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",156,13538,401,159,17,72,41,28,64,20
+2017,2016,72,"Hottingen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",161,14158,415,160,18,74,45,34,56,30
+2017,2014,72,"Hottingen","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",13,1036,23,8,0,0,7,8,0,0
+2017,2015,72,"Hottingen","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",13,1036,22,8,0,0,8,6,0,0
+2017,2016,72,"Hottingen","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",13,1036,22,8,0,0,8,6,0,0
+2017,2014,72,"Hottingen","Übrige Eigentümerschaften","Altbau (bis 2006)",4080,374426,8099,2401,373,689,1918,1234,834,630
+2017,2015,72,"Hottingen","Übrige Eigentümerschaften","Altbau (bis 2006)",4115,379641,8192,2495,386,623,1897,1236,870,657
+2017,2016,72,"Hottingen","Übrige Eigentümerschaften","Altbau (bis 2006)",4121,382329,8224,2600,423,602,1898,1186,902,616
+2017,2014,72,"Hottingen","Übrige Eigentümerschaften","Neubau als Umnutzung",1,120,".",".",".",".",".",".",".","."
+2017,2015,72,"Hottingen","Übrige Eigentümerschaften","Neubau als Umnutzung",14,1584,31,12,0,5,4,6,4,0
+2017,2016,72,"Hottingen","Übrige Eigentümerschaften","Neubau als Umnutzung",15,1660,35,16,0,5,4,6,4,0
+2017,2014,72,"Hottingen","Übrige Eigentümerschaften","Neubau als Wohnersatz",18,3388,56,37,0,8,5,2,4,0
+2017,2015,72,"Hottingen","Übrige Eigentümerschaften","Neubau als Wohnersatz",26,4305,76,57,2,0,5,10,2,0
+2017,2016,72,"Hottingen","Übrige Eigentümerschaften","Neubau als Wohnersatz",42,6192,108,58,9,6,11,16,8,0
+2017,2014,72,"Hottingen","Übrige Eigentümerschaften","Neubau auf unbebautem Land",56,4133,67,0,3,0,45,6,12,0
+2017,2015,72,"Hottingen","Übrige Eigentümerschaften","Neubau auf unbebautem Land",56,4091,65,4,0,0,47,4,10,0
+2017,2016,72,"Hottingen","Übrige Eigentümerschaften","Neubau auf unbebautem Land",55,4024,62,0,2,3,49,2,6,0
+2017,2014,73,"Hirslanden","Im Stockwerkeigentum","Altbau (bis 2006)",299,32772,656,200,30,109,106,90,114,12
+2017,2015,73,"Hirslanden","Im Stockwerkeigentum","Altbau (bis 2006)",299,32705,652,233,26,72,106,82,120,13
+2017,2016,73,"Hirslanden","Im Stockwerkeigentum","Altbau (bis 2006)",306,33624,660,219,23,79,108,80,138,12
+2017,2014,73,"Hirslanden","Im Stockwerkeigentum","Neubau als Wohnersatz",13,1596,30,10,0,5,4,4,6,0
+2017,2015,73,"Hirslanden","Im Stockwerkeigentum","Neubau als Wohnersatz",11,1370,21,7,0,0,4,4,6,0
+2017,2016,73,"Hirslanden","Im Stockwerkeigentum","Neubau als Wohnersatz",13,1596,26,13,0,0,5,2,6,0
+2017,2014,73,"Hirslanden","Im Stockwerkeigentum","Neubau auf unbebautem Land",8,929,16,5,0,0,3,2,6,0
+2017,2015,73,"Hirslanden","Im Stockwerkeigentum","Neubau auf unbebautem Land",11,1263,25,9,0,0,3,4,8,0
+2017,2016,73,"Hirslanden","Im Stockwerkeigentum","Neubau auf unbebautem Land",12,1397,27,9,0,3,3,4,8,0
+2017,2014,73,"Hirslanden","Öffentl./Genossenschaftl.","Altbau (bis 2006)",422,33724,891,301,45,105,168,110,112,52
+2017,2015,73,"Hirslanden","Öffentl./Genossenschaftl.","Altbau (bis 2006)",419,33433,881,277,49,104,174,122,100,53
+2017,2016,73,"Hirslanden","Öffentl./Genossenschaftl.","Altbau (bis 2006)",423,33922,897,289,64,102,174,122,92,56
+2017,2014,73,"Hirslanden","Übrige Eigentümerschaften","Altbau (bis 2006)",2748,235033,5275,1468,222,406,1316,848,594,399
+2017,2015,73,"Hirslanden","Übrige Eigentümerschaften","Altbau (bis 2006)",2747,235968,5260,1497,210,390,1321,848,590,381
+2017,2016,73,"Hirslanden","Übrige Eigentümerschaften","Altbau (bis 2006)",2761,235973,5169,1489,199,374,1392,788,562,371
+2017,2014,73,"Hirslanden","Übrige Eigentümerschaften","Neubau als Wohnersatz",34,3744,65,25,2,0,12,18,8,0
+2017,2015,73,"Hirslanden","Übrige Eigentümerschaften","Neubau als Wohnersatz",35,3770,66,25,2,0,13,16,10,0
+2017,2016,73,"Hirslanden","Übrige Eigentümerschaften","Neubau als Wohnersatz",36,3982,64,23,2,0,16,12,12,0
+2017,2014,73,"Hirslanden","Übrige Eigentümerschaften","Neubau auf unbebautem Land",14,1915,33,21,0,0,6,2,4,0
+2017,2015,73,"Hirslanden","Übrige Eigentümerschaften","Neubau auf unbebautem Land",13,1837,32,23,0,0,7,0,2,0
+2017,2016,73,"Hirslanden","Übrige Eigentümerschaften","Neubau auf unbebautem Land",13,1789,30,19,0,0,5,2,4,0
+2017,2014,74,"Witikon","Im Stockwerkeigentum","Altbau (bis 2006)",655,72063,1344,360,51,109,233,156,354,76
+2017,2015,74,"Witikon","Im Stockwerkeigentum","Altbau (bis 2006)",667,73297,1383,376,68,104,228,170,338,101
+2017,2016,74,"Witikon","Im Stockwerkeigentum","Altbau (bis 2006)",642,71778,1348,354,57,132,226,148,336,100
+2017,2014,74,"Witikon","Im Stockwerkeigentum","Neubau als Umnutzung",5,623,10,3,0,0,2,2,0,3
+2017,2015,74,"Witikon","Im Stockwerkeigentum","Neubau als Umnutzung",7,956,16,6,0,0,2,2,2,3
+2017,2016,74,"Witikon","Im Stockwerkeigentum","Neubau als Umnutzung",11,1572,23,6,0,5,5,2,2,3
+2017,2014,74,"Witikon","Im Stockwerkeigentum","Neubau als Wohnersatz",34,4428,80,33,0,11,10,10,16,0
+2017,2015,74,"Witikon","Im Stockwerkeigentum","Neubau als Wohnersatz",55,6858,135,59,0,18,15,18,22,3
+2017,2016,74,"Witikon","Im Stockwerkeigentum","Neubau als Wohnersatz",57,7084,142,64,0,19,13,18,24,6
+2017,2014,74,"Witikon","Im Stockwerkeigentum","Neubau auf unbebautem Land",57,8244,148,72,7,9,11,14,28,7
+2017,2015,74,"Witikon","Im Stockwerkeigentum","Neubau auf unbebautem Land",55,7982,143,79,6,3,9,10,30,7
+2017,2016,74,"Witikon","Im Stockwerkeigentum","Neubau auf unbebautem Land",57,8208,147,77,8,3,11,8,30,10
+2017,2014,74,"Witikon","Öffentl./Genossenschaftl.","Altbau (bis 2006)",351,32078,872,383,76,103,110,42,128,25
+2017,2015,74,"Witikon","Öffentl./Genossenschaftl.","Altbau (bis 2006)",357,32655,859,424,76,46,115,44,120,34
+2017,2016,74,"Witikon","Öffentl./Genossenschaftl.","Altbau (bis 2006)",360,32708,868,415,81,56,116,42,122,36
+2017,2014,74,"Witikon","Übrige Eigentümerschaften","Altbau (bis 2006)",3721,339567,7254,2240,428,471,1715,792,1250,347
+2017,2015,74,"Witikon","Übrige Eigentümerschaften","Altbau (bis 2006)",3754,342545,7367,2344,425,470,1724,802,1234,373
+2017,2016,74,"Witikon","Übrige Eigentümerschaften","Altbau (bis 2006)",3774,343513,7338,2438,425,348,1751,772,1262,335
+2017,2014,74,"Witikon","Übrige Eigentümerschaften","Neubau als Umnutzung",13,1422,27,10,0,0,4,2,8,3
+2017,2015,74,"Witikon","Übrige Eigentümerschaften","Neubau als Umnutzung",20,2506,43,11,4,0,4,6,10,3
+2017,2016,74,"Witikon","Übrige Eigentümerschaften","Neubau als Umnutzung",27,3588,59,19,0,5,8,10,14,3
+2017,2014,74,"Witikon","Übrige Eigentümerschaften","Neubau als Wohnersatz",53,6272,131,29,13,36,15,14,20,3
+2017,2015,74,"Witikon","Übrige Eigentümerschaften","Neubau als Wohnersatz",67,7937,159,50,20,22,17,18,32,3
+2017,2016,74,"Witikon","Übrige Eigentümerschaften","Neubau als Wohnersatz",85,9874,199,80,20,16,23,24,30,7
+2017,2014,74,"Witikon","Übrige Eigentümerschaften","Neubau auf unbebautem Land",40,5727,128,94,3,6,4,4,18,0
+2017,2015,74,"Witikon","Übrige Eigentümerschaften","Neubau auf unbebautem Land",39,5959,121,89,3,6,5,4,14,0
+2017,2016,74,"Witikon","Übrige Eigentümerschaften","Neubau auf unbebautem Land",49,6759,140,91,3,6,9,8,20,3
+2017,2014,81,"Seefeld","Im Stockwerkeigentum","Altbau (bis 2006)",167,14974,311,81,14,8,80,54,42,29
+2017,2015,81,"Seefeld","Im Stockwerkeigentum","Altbau (bis 2006)",173,15503,312,75,11,7,89,60,36,31
+2017,2016,81,"Seefeld","Im Stockwerkeigentum","Altbau (bis 2006)",173,15598,305,69,11,5,89,66,38,31
+2017,2014,81,"Seefeld","Im Stockwerkeigentum","Neubau als Wohnersatz",10,1418,17,4,2,0,4,6,0,0
+2017,2015,81,"Seefeld","Im Stockwerkeigentum","Neubau als Wohnersatz",11,1558,23,7,2,0,5,4,0,0
+2017,2016,81,"Seefeld","Im Stockwerkeigentum","Neubau als Wohnersatz",10,1418,21,8,2,5,6,0,0,0
+2017,2014,81,"Seefeld","Öffentl./Genossenschaftl.","Altbau (bis 2006)",89,6327,151,13,12,6,51,24,18,21
+2017,2015,81,"Seefeld","Öffentl./Genossenschaftl.","Altbau (bis 2006)",90,6370,150,11,12,15,55,20,16,20
+2017,2016,81,"Seefeld","Öffentl./Genossenschaftl.","Altbau (bis 2006)",88,6247,150,15,8,15,53,18,14,27
+2017,2014,81,"Seefeld","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",28,1844,35,0,0,0,21,2,12,0
+2017,2015,81,"Seefeld","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",28,1844,35,0,0,0,21,2,12,0
+2017,2016,81,"Seefeld","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",28,1844,35,0,0,0,21,0,14,0
+2017,2014,81,"Seefeld","Übrige Eigentümerschaften","Altbau (bis 2006)",2596,195869,4318,744,211,228,1516,842,414,352
+2017,2015,81,"Seefeld","Übrige Eigentümerschaften","Altbau (bis 2006)",2544,191212,4276,777,203,255,1444,808,442,334
+2017,2016,81,"Seefeld","Übrige Eigentümerschaften","Altbau (bis 2006)",2554,192614,4309,826,183,209,1435,860,444,341
+2017,2014,81,"Seefeld","Übrige Eigentümerschaften","Neubau als Wohnersatz",60,5889,120,26,0,22,30,10,14,15
+2017,2015,81,"Seefeld","Übrige Eigentümerschaften","Neubau als Wohnersatz",61,6029,116,41,0,7,33,12,20,4
+2017,2016,81,"Seefeld","Übrige Eigentümerschaften","Neubau als Wohnersatz",66,6693,136,52,2,5,29,16,20,13
+2017,2014,81,"Seefeld","Übrige Eigentümerschaften","Neubau auf unbebautem Land",22,2108,30,0,0,0,16,2,8,3
+2017,2015,81,"Seefeld","Übrige Eigentümerschaften","Neubau auf unbebautem Land",21,1828,27,0,0,0,15,4,8,0
+2017,2016,81,"Seefeld","Übrige Eigentümerschaften","Neubau auf unbebautem Land",23,2022,31,0,0,0,15,10,6,0
+2017,2014,82,"Mühlebach","Im Stockwerkeigentum","Altbau (bis 2006)",415,36448,790,162,44,72,187,134,122,69
+2017,2015,82,"Mühlebach","Im Stockwerkeigentum","Altbau (bis 2006)",436,38337,825,208,35,71,203,122,118,63
+2017,2016,82,"Mühlebach","Im Stockwerkeigentum","Altbau (bis 2006)",436,38386,810,204,35,45,207,122,120,71
+2017,2014,82,"Mühlebach","Im Stockwerkeigentum","Neubau als Umnutzung",20,3334,59,23,6,16,5,0,6,3
+2017,2015,82,"Mühlebach","Im Stockwerkeigentum","Neubau als Umnutzung",20,3334,58,24,5,16,5,0,8,0
+2017,2016,82,"Mühlebach","Im Stockwerkeigentum","Neubau als Umnutzung",12,1901,22,3,5,3,5,0,6,0
+2017,2014,82,"Mühlebach","Im Stockwerkeigentum","Neubau als Wohnersatz",15,2005,25,7,2,0,8,4,4,0
+2017,2015,82,"Mühlebach","Im Stockwerkeigentum","Neubau als Wohnersatz",15,2093,29,7,2,0,7,6,2,5
+2017,2016,82,"Mühlebach","Im Stockwerkeigentum","Neubau als Wohnersatz",16,2221,33,10,4,0,7,0,4,8
+2017,2014,82,"Mühlebach","Im Stockwerkeigentum","Neubau auf unbebautem Land",8,1134,22,12,0,0,0,8,2,0
+2017,2015,82,"Mühlebach","Im Stockwerkeigentum","Neubau auf unbebautem Land",8,1074,18,8,0,0,2,4,4,0
+2017,2016,82,"Mühlebach","Im Stockwerkeigentum","Neubau auf unbebautem Land",20,3226,56,36,3,0,4,4,6,3
+2017,2014,82,"Mühlebach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",239,20823,587,214,128,57,69,54,32,31
+2017,2015,82,"Mühlebach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",244,21146,582,232,126,33,74,56,34,27
+2017,2016,82,"Mühlebach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",248,21168,594,232,128,38,72,54,40,31
+2017,2014,82,"Mühlebach","Übrige Eigentümerschaften","Altbau (bis 2006)",2392,179761,4061,841,121,212,1379,694,442,367
+2017,2015,82,"Mühlebach","Übrige Eigentümerschaften","Altbau (bis 2006)",2375,177609,4036,841,144,206,1345,664,446,364
+2017,2016,82,"Mühlebach","Übrige Eigentümerschaften","Altbau (bis 2006)",2343,175449,4014,857,151,205,1306,766,432,293
+2017,2014,82,"Mühlebach","Übrige Eigentümerschaften","Neubau als Umnutzung",89,8250,163,24,4,18,42,38,20,17
+2017,2015,82,"Mühlebach","Übrige Eigentümerschaften","Neubau als Umnutzung",94,8769,182,41,0,15,43,22,34,27
+2017,2016,82,"Mühlebach","Übrige Eigentümerschaften","Neubau als Umnutzung",100,9024,191,47,2,12,45,26,36,23
+2017,2014,82,"Mühlebach","Übrige Eigentümerschaften","Neubau als Wohnersatz",30,2966,67,9,3,6,8,16,12,13
+2017,2015,82,"Mühlebach","Übrige Eigentümerschaften","Neubau als Wohnersatz",32,3215,65,12,0,6,10,14,14,8
+2017,2016,82,"Mühlebach","Übrige Eigentümerschaften","Neubau als Wohnersatz",34,3630,83,27,0,18,10,10,8,10
+2017,2014,82,"Mühlebach","Übrige Eigentümerschaften","Neubau auf unbebautem Land",7,666,13,9,0,0,3,2,0,0
+2017,2015,82,"Mühlebach","Übrige Eigentümerschaften","Neubau auf unbebautem Land",6,568,11,6,0,0,3,2,0,0
+2017,2016,82,"Mühlebach","Übrige Eigentümerschaften","Neubau auf unbebautem Land",5,490,11,7,0,0,2,2,0,0
+2017,2014,83,"Weinegg","Im Stockwerkeigentum","Altbau (bis 2006)",184,19822,400,156,10,26,70,46,66,27
+2017,2015,83,"Weinegg","Im Stockwerkeigentum","Altbau (bis 2006)",191,20951,411,165,13,24,74,44,64,27
+2017,2016,83,"Weinegg","Im Stockwerkeigentum","Altbau (bis 2006)",189,20590,405,160,13,25,78,42,62,22
+2017,2014,83,"Weinegg","Im Stockwerkeigentum","Neubau als Umnutzung",8,1157,32,17,0,12,1,0,2,0
+2017,2015,83,"Weinegg","Im Stockwerkeigentum","Neubau als Umnutzung",8,1157,31,23,0,0,0,0,4,0
+2017,2016,83,"Weinegg","Im Stockwerkeigentum","Neubau als Umnutzung",8,1157,30,18,0,9,0,0,4,0
+2017,2014,83,"Weinegg","Im Stockwerkeigentum","Neubau als Wohnersatz",22,3192,62,39,2,11,6,0,4,0
+2017,2015,83,"Weinegg","Im Stockwerkeigentum","Neubau als Wohnersatz",23,3370,73,36,2,24,5,0,6,0
+2017,2016,83,"Weinegg","Im Stockwerkeigentum","Neubau als Wohnersatz",24,3494,78,23,2,42,5,2,6,0
+2017,2014,83,"Weinegg","Im Stockwerkeigentum","Neubau auf unbebautem Land",13,2029,43,25,6,5,2,2,2,0
+2017,2015,83,"Weinegg","Im Stockwerkeigentum","Neubau auf unbebautem Land",14,2191,42,26,5,3,2,2,4,0
+2017,2016,83,"Weinegg","Im Stockwerkeigentum","Neubau auf unbebautem Land",14,2191,41,22,8,3,2,2,4,0
+2017,2014,83,"Weinegg","Öffentl./Genossenschaftl.","Altbau (bis 2006)",211,15693,486,185,63,30,70,32,80,25
+2017,2015,83,"Weinegg","Öffentl./Genossenschaftl.","Altbau (bis 2006)",214,15901,484,182,61,30,67,36,84,24
+2017,2016,83,"Weinegg","Öffentl./Genossenschaftl.","Altbau (bis 2006)",209,15407,473,203,50,14,70,26,72,40
+2017,2014,83,"Weinegg","Übrige Eigentümerschaften","Altbau (bis 2006)",1762,146890,3298,841,152,244,899,466,420,263
+2017,2015,83,"Weinegg","Übrige Eigentümerschaften","Altbau (bis 2006)",1777,149228,3297,833,156,219,913,490,386,276
+2017,2016,83,"Weinegg","Übrige Eigentümerschaften","Altbau (bis 2006)",1710,143761,3198,858,152,217,866,484,384,237
+2017,2014,83,"Weinegg","Übrige Eigentümerschaften","Neubau als Umnutzung",4,327,6,".",".",".",".",".",".","."
+2017,2015,83,"Weinegg","Übrige Eigentümerschaften","Neubau als Umnutzung",4,327,5,".",".",".",".",".",".","."
+2017,2016,83,"Weinegg","Übrige Eigentümerschaften","Neubau als Umnutzung",4,327,7,".",".",".",".",".",".","."
+2017,2014,83,"Weinegg","Übrige Eigentümerschaften","Neubau als Wohnersatz",12,1560,31,18,2,3,2,4,2,0
+2017,2015,83,"Weinegg","Übrige Eigentümerschaften","Neubau als Wohnersatz",36,3217,69,27,0,4,16,14,8,0
+2017,2016,83,"Weinegg","Übrige Eigentümerschaften","Neubau als Wohnersatz",53,4807,103,47,2,0,21,22,12,0
+2017,2014,83,"Weinegg","Übrige Eigentümerschaften","Neubau auf unbebautem Land",1,150,6,".",".",".",".",".",".","."
+2017,2015,83,"Weinegg","Übrige Eigentümerschaften","Neubau auf unbebautem Land",1,150,6,".",".",".",".",".",".","."
+2017,2016,83,"Weinegg","Übrige Eigentümerschaften","Neubau auf unbebautem Land",9,1633,24,11,3,0,2,2,2,0
+2017,2014,91,"Albisrieden","Im Stockwerkeigentum","Altbau (bis 2006)",804,73796,1545,359,67,106,342,176,364,129
+2017,2015,91,"Albisrieden","Im Stockwerkeigentum","Altbau (bis 2006)",812,74469,1580,358,65,108,350,170,356,163
+2017,2016,91,"Albisrieden","Im Stockwerkeigentum","Altbau (bis 2006)",823,75610,1605,379,57,127,354,188,338,157
+2017,2014,91,"Albisrieden","Im Stockwerkeigentum","Neubau als Umnutzung",58,5843,137,67,6,6,18,22,18,0
+2017,2015,91,"Albisrieden","Im Stockwerkeigentum","Neubau als Umnutzung",73,6939,161,65,8,12,25,22,26,6
+2017,2016,91,"Albisrieden","Im Stockwerkeigentum","Neubau als Umnutzung",74,7027,165,69,13,6,23,28,24,3
+2017,2014,91,"Albisrieden","Im Stockwerkeigentum","Neubau als Wohnersatz",38,4574,99,52,0,0,4,18,18,6
+2017,2015,91,"Albisrieden","Im Stockwerkeigentum","Neubau als Wohnersatz",42,5193,111,63,0,5,6,14,20,3
+2017,2016,91,"Albisrieden","Im Stockwerkeigentum","Neubau als Wohnersatz",43,5297,115,58,4,14,7,14,18,0
+2017,2014,91,"Albisrieden","Im Stockwerkeigentum","Neubau auf unbebautem Land",25,2934,68,40,0,6,4,8,8,3
+2017,2015,91,"Albisrieden","Im Stockwerkeigentum","Neubau auf unbebautem Land",26,3066,74,43,0,7,3,10,8,3
+2017,2016,91,"Albisrieden","Im Stockwerkeigentum","Neubau auf unbebautem Land",25,2967,72,37,2,10,3,8,8,3
+2017,2014,91,"Albisrieden","Öffentl./Genossenschaftl.","Altbau (bis 2006)",3061,213150,5834,1828,498,372,1426,540,1042,127
+2017,2015,91,"Albisrieden","Öffentl./Genossenschaftl.","Altbau (bis 2006)",3033,211996,5819,1861,504,377,1420,556,986,113
+2017,2016,91,"Albisrieden","Öffentl./Genossenschaftl.","Altbau (bis 2006)",3039,209354,5798,1831,486,366,1449,588,952,132
+2017,2014,91,"Albisrieden","Öffentl./Genossenschaftl.","Neubau als Umnutzung",79,8628,236,169,7,18,14,8,18,3
+2017,2015,91,"Albisrieden","Öffentl./Genossenschaftl.","Neubau als Umnutzung",124,12991,367,247,5,30,19,30,32,3
+2017,2016,91,"Albisrieden","Öffentl./Genossenschaftl.","Neubau als Umnutzung",151,15602,448,294,19,37,19,44,32,3
+2017,2014,91,"Albisrieden","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",429,41572,1157,692,21,88,87,72,182,19
+2017,2015,91,"Albisrieden","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",428,41641,1172,719,25,80,91,62,174,20
+2017,2016,91,"Albisrieden","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",433,42069,1178,772,31,45,99,48,162,20
+2017,2014,91,"Albisrieden","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",35,3332,96,31,2,33,11,10,10,0
+2017,2015,91,"Albisrieden","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",34,3254,91,30,0,29,12,8,12,0
+2017,2016,91,"Albisrieden","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",38,3638,92,48,0,8,14,10,12,0
+2017,2014,91,"Albisrieden","Übrige Eigentümerschaften","Altbau (bis 2006)",4432,319934,8222,2063,357,595,2201,1264,1160,566
+2017,2015,91,"Albisrieden","Übrige Eigentümerschaften","Altbau (bis 2006)",4407,319337,8218,2154,359,584,2155,1278,1158,535
+2017,2016,91,"Albisrieden","Übrige Eigentümerschaften","Altbau (bis 2006)",4409,319740,8172,2158,312,619,2186,1314,1100,467
+2017,2014,91,"Albisrieden","Übrige Eigentümerschaften","Neubau als Umnutzung",331,35068,704,203,9,27,98,208,58,99
+2017,2015,91,"Albisrieden","Übrige Eigentümerschaften","Neubau als Umnutzung",380,39918,793,229,19,21,111,256,60,96
+2017,2016,91,"Albisrieden","Übrige Eigentümerschaften","Neubau als Umnutzung",1107,110896,2291,668,73,83,331,736,224,167
+2017,2014,91,"Albisrieden","Übrige Eigentümerschaften","Neubau als Wohnersatz",70,7650,171,69,0,15,16,44,4,23
+2017,2015,91,"Albisrieden","Übrige Eigentümerschaften","Neubau als Wohnersatz",85,9173,199,74,2,15,24,46,14,23
+2017,2016,91,"Albisrieden","Übrige Eigentümerschaften","Neubau als Wohnersatz",172,16846,383,138,3,28,45,112,30,26
+2017,2014,91,"Albisrieden","Übrige Eigentümerschaften","Neubau auf unbebautem Land",41,4074,89,35,0,0,10,36,8,0
+2017,2015,91,"Albisrieden","Übrige Eigentümerschaften","Neubau auf unbebautem Land",40,3929,90,30,0,5,10,30,12,0
+2017,2016,91,"Albisrieden","Übrige Eigentümerschaften","Neubau auf unbebautem Land",40,4002,96,42,0,13,9,20,12,0
+2017,2014,92,"Altstetten","Im Stockwerkeigentum","Altbau (bis 2006)",383,32898,793,236,34,48,137,106,168,63
+2017,2015,92,"Altstetten","Im Stockwerkeigentum","Altbau (bis 2006)",406,35290,841,227,39,75,149,120,164,71
+2017,2016,92,"Altstetten","Im Stockwerkeigentum","Altbau (bis 2006)",387,34166,794,190,35,70,144,112,166,76
+2017,2014,92,"Altstetten","Im Stockwerkeigentum","Neubau als Umnutzung",21,2449,51,14,0,6,6,16,2,7
+2017,2015,92,"Altstetten","Im Stockwerkeigentum","Neubau als Umnutzung",22,2556,53,17,0,6,7,14,4,4
+2017,2016,92,"Altstetten","Im Stockwerkeigentum","Neubau als Umnutzung",21,2425,56,17,0,10,4,14,4,7
+2017,2014,92,"Altstetten","Im Stockwerkeigentum","Neubau als Wohnersatz",76,8398,172,56,0,6,19,30,36,24
+2017,2015,92,"Altstetten","Im Stockwerkeigentum","Neubau als Wohnersatz",81,8909,181,62,2,7,25,28,30,27
+2017,2016,92,"Altstetten","Im Stockwerkeigentum","Neubau als Wohnersatz",85,9329,200,77,2,8,20,36,32,26
+2017,2014,92,"Altstetten","Im Stockwerkeigentum","Neubau auf unbebautem Land",32,3446,88,37,4,16,5,6,14,6
+2017,2015,92,"Altstetten","Im Stockwerkeigentum","Neubau auf unbebautem Land",108,8610,198,42,4,16,54,48,24,11
+2017,2016,92,"Altstetten","Im Stockwerkeigentum","Neubau auf unbebautem Land",108,8603,190,46,4,12,56,46,22,4
+2017,2014,92,"Altstetten","Öffentl./Genossenschaftl.","Altbau (bis 2006)",3837,259002,8077,2820,749,679,1562,614,1370,278
+2017,2015,92,"Altstetten","Öffentl./Genossenschaftl.","Altbau (bis 2006)",3843,259685,8120,2821,727,696,1556,650,1372,291
+2017,2016,92,"Altstetten","Öffentl./Genossenschaftl.","Altbau (bis 2006)",3752,253282,7918,2775,743,687,1537,606,1286,269
+2017,2014,92,"Altstetten","Öffentl./Genossenschaftl.","Neubau als Umnutzung",13,956,28,7,4,0,1,14,2,0
+2017,2015,92,"Altstetten","Öffentl./Genossenschaftl.","Neubau als Umnutzung",13,956,28,7,2,0,1,14,4,0
+2017,2016,92,"Altstetten","Öffentl./Genossenschaftl.","Neubau als Umnutzung",13,956,24,0,5,0,3,14,2,0
+2017,2014,92,"Altstetten","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",286,30200,934,603,61,106,31,60,52,21
+2017,2015,92,"Altstetten","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",388,41096,1316,896,91,149,38,58,62,23
+2017,2016,92,"Altstetten","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",390,41345,1303,891,96,128,39,50,74,27
+2017,2014,92,"Altstetten","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",71,5756,138,49,17,4,36,6,24,3
+2017,2015,92,"Altstetten","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",79,6411,161,44,28,11,41,6,28,0
+2017,2016,92,"Altstetten","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",82,6795,163,51,21,15,46,2,26,6
+2017,2014,92,"Altstetten","Übrige Eigentümerschaften","Altbau (bis 2006)",9254,660569,18110,4868,772,1616,4242,2692,2478,1418
+2017,2015,92,"Altstetten","Übrige Eigentümerschaften","Altbau (bis 2006)",9335,665569,18173,4907,801,1605,4302,2638,2494,1408
+2017,2016,92,"Altstetten","Übrige Eigentümerschaften","Altbau (bis 2006)",9332,666006,18076,4885,777,1554,4325,2706,2436,1393
+2017,2014,92,"Altstetten","Übrige Eigentümerschaften","Neubau als Umnutzung",299,24885,571,78,7,35,120,170,64,93
+2017,2015,92,"Altstetten","Übrige Eigentümerschaften","Neubau als Umnutzung",442,38407,859,125,16,34,159,286,94,137
+2017,2016,92,"Altstetten","Übrige Eigentümerschaften","Neubau als Umnutzung",481,41140,912,135,21,29,184,290,108,143
+2017,2014,92,"Altstetten","Übrige Eigentümerschaften","Neubau als Wohnersatz",124,12647,284,57,4,5,33,84,20,79
+2017,2015,92,"Altstetten","Übrige Eigentümerschaften","Neubau als Wohnersatz",140,13957,281,66,0,8,49,96,28,35
+2017,2016,92,"Altstetten","Übrige Eigentümerschaften","Neubau als Wohnersatz",155,15366,313,70,0,17,58,92,30,46
+2017,2014,92,"Altstetten","Übrige Eigentümerschaften","Neubau auf unbebautem Land",341,30682,622,97,7,12,138,208,74,83
+2017,2015,92,"Altstetten","Übrige Eigentümerschaften","Neubau auf unbebautem Land",266,25713,535,98,10,20,87,162,60,96
+2017,2016,92,"Altstetten","Übrige Eigentümerschaften","Neubau auf unbebautem Land",265,25660,529,98,10,10,91,162,60,94
+2017,2014,101,"Höngg","Im Stockwerkeigentum","Altbau (bis 2006)",1450,145876,2919,852,104,192,531,382,730,120
+2017,2015,101,"Höngg","Im Stockwerkeigentum","Altbau (bis 2006)",1456,146221,2937,853,105,219,543,372,728,129
+2017,2016,101,"Höngg","Im Stockwerkeigentum","Altbau (bis 2006)",1449,145527,2939,859,91,232,535,406,688,120
+2017,2014,101,"Höngg","Im Stockwerkeigentum","Neubau als Umnutzung",23,2948,53,16,0,3,4,8,16,6
+2017,2015,101,"Höngg","Im Stockwerkeigentum","Neubau als Umnutzung",22,2794,50,13,0,7,6,8,10,6
+2017,2016,101,"Höngg","Im Stockwerkeigentum","Neubau als Umnutzung",23,2948,52,17,0,4,7,8,8,6
+2017,2014,101,"Höngg","Im Stockwerkeigentum","Neubau als Wohnersatz",75,9632,220,154,4,10,13,18,18,3
+2017,2015,101,"Höngg","Im Stockwerkeigentum","Neubau als Wohnersatz",76,9777,231,159,4,15,12,16,18,3
+2017,2016,101,"Höngg","Im Stockwerkeigentum","Neubau als Wohnersatz",101,12868,303,194,6,32,16,30,20,3
+2017,2014,101,"Höngg","Im Stockwerkeigentum","Neubau auf unbebautem Land",29,3486,74,21,2,20,8,12,8,3
+2017,2015,101,"Höngg","Im Stockwerkeigentum","Neubau auf unbebautem Land",27,3366,69,29,2,9,7,12,8,3
+2017,2016,101,"Höngg","Im Stockwerkeigentum","Neubau auf unbebautem Land",28,3422,69,25,2,8,5,16,10,3
+2017,2014,101,"Höngg","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2196,182638,4962,2000,536,392,774,382,756,116
+2017,2015,101,"Höngg","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2163,180745,4897,1999,578,351,762,386,706,113
+2017,2016,101,"Höngg","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2157,175574,4843,2089,552,249,781,374,676,122
+2017,2014,101,"Höngg","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",21,2145,62,42,2,3,2,4,6,3
+2017,2015,101,"Höngg","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",177,15895,432,193,34,28,33,70,56,10
+2017,2016,101,"Höngg","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",206,18898,525,312,36,21,38,58,54,7
+2017,2014,101,"Höngg","Übrige Eigentümerschaften","Altbau (bis 2006)",6588,550287,12671,3439,531,808,2992,1986,1940,952
+2017,2015,101,"Höngg","Übrige Eigentümerschaften","Altbau (bis 2006)",6613,551544,12730,3715,545,681,2997,2120,1820,853
+2017,2016,101,"Höngg","Übrige Eigentümerschaften","Altbau (bis 2006)",6561,546864,12629,3619,534,731,3010,2036,1784,917
+2017,2014,101,"Höngg","Übrige Eigentümerschaften","Neubau als Umnutzung",9,798,23,0,0,14,3,4,0,3
+2017,2015,101,"Höngg","Übrige Eigentümerschaften","Neubau als Umnutzung",9,813,20,7,3,4,5,2,0,0
+2017,2016,101,"Höngg","Übrige Eigentümerschaften","Neubau als Umnutzung",9,825,18,4,5,4,5,0,0,0
+2017,2014,101,"Höngg","Übrige Eigentümerschaften","Neubau als Wohnersatz",136,14699,310,115,4,25,32,78,40,21
+2017,2015,101,"Höngg","Übrige Eigentümerschaften","Neubau als Wohnersatz",166,17945,371,126,2,36,45,82,60,21
+2017,2016,101,"Höngg","Übrige Eigentümerschaften","Neubau als Wohnersatz",217,22651,457,168,2,13,63,116,74,19
+2017,2014,101,"Höngg","Übrige Eigentümerschaften","Neubau auf unbebautem Land",40,4591,89,36,6,0,10,18,16,3
+2017,2015,101,"Höngg","Übrige Eigentümerschaften","Neubau auf unbebautem Land",42,4742,94,40,6,3,12,18,12,3
+2017,2016,101,"Höngg","Übrige Eigentümerschaften","Neubau auf unbebautem Land",41,4656,96,45,6,0,9,24,12,0
+2017,2014,102,"Wipkingen","Im Stockwerkeigentum","Altbau (bis 2006)",518,50276,1054,238,33,109,204,220,140,108
+2017,2015,102,"Wipkingen","Im Stockwerkeigentum","Altbau (bis 2006)",518,50302,1065,267,35,113,205,208,134,107
+2017,2016,102,"Wipkingen","Im Stockwerkeigentum","Altbau (bis 2006)",538,51409,1125,270,37,126,198,232,150,108
+2017,2014,102,"Wipkingen","Im Stockwerkeigentum","Neubau als Umnutzung",7,803,13,4,0,0,3,4,2,0
+2017,2015,102,"Wipkingen","Im Stockwerkeigentum","Neubau als Umnutzung",7,803,12,4,0,0,4,2,2,0
+2017,2016,102,"Wipkingen","Im Stockwerkeigentum","Neubau als Umnutzung",7,803,13,4,0,0,3,4,2,0
+2017,2014,102,"Wipkingen","Im Stockwerkeigentum","Neubau als Wohnersatz",39,4767,88,41,2,5,11,12,14,3
+2017,2015,102,"Wipkingen","Im Stockwerkeigentum","Neubau als Wohnersatz",39,4767,89,47,0,0,12,10,18,0
+2017,2016,102,"Wipkingen","Im Stockwerkeigentum","Neubau als Wohnersatz",83,9124,179,77,0,0,24,42,32,4
+2017,2014,102,"Wipkingen","Im Stockwerkeigentum","Neubau auf unbebautem Land",27,3416,52,18,3,0,11,6,12,3
+2017,2015,102,"Wipkingen","Im Stockwerkeigentum","Neubau auf unbebautem Land",26,3306,56,19,0,4,8,8,14,3
+2017,2016,102,"Wipkingen","Im Stockwerkeigentum","Neubau auf unbebautem Land",27,3416,57,19,0,0,8,10,14,6
+2017,2014,102,"Wipkingen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2127,140268,4092,1071,358,299,987,600,484,303
+2017,2015,102,"Wipkingen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2126,139920,4062,1074,362,247,1000,584,468,327
+2017,2016,102,"Wipkingen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2138,140220,4041,1116,393,183,1026,552,456,314
+2017,2015,102,"Wipkingen","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",108,9091,216,89,13,7,39,34,22,3
+2017,2016,102,"Wipkingen","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",133,11132,265,95,21,9,51,56,30,3
+2017,2014,102,"Wipkingen","Übrige Eigentümerschaften","Altbau (bis 2006)",5278,366818,9613,1938,341,595,2613,2266,780,1061
+2017,2015,102,"Wipkingen","Übrige Eigentümerschaften","Altbau (bis 2006)",5356,373068,9687,2019,351,499,2670,2246,818,1056
+2017,2016,102,"Wipkingen","Übrige Eigentümerschaften","Altbau (bis 2006)",5360,374069,9720,2126,351,469,2664,2236,808,1043
+2017,2014,102,"Wipkingen","Übrige Eigentümerschaften","Neubau als Umnutzung",19,2063,47,25,0,5,4,14,0,0
+2017,2015,102,"Wipkingen","Übrige Eigentümerschaften","Neubau als Umnutzung",48,4689,97,24,2,5,14,38,10,4
+2017,2016,102,"Wipkingen","Übrige Eigentümerschaften","Neubau als Umnutzung",48,4672,101,33,2,6,12,26,18,6
+2017,2014,102,"Wipkingen","Übrige Eigentümerschaften","Neubau als Wohnersatz",12,1311,38,22,0,4,2,6,0,4
+2017,2015,102,"Wipkingen","Übrige Eigentümerschaften","Neubau als Wohnersatz",26,2576,64,25,0,7,6,16,6,4
+2017,2016,102,"Wipkingen","Übrige Eigentümerschaften","Neubau als Wohnersatz",35,3204,85,32,0,10,10,20,6,7
+2017,2014,102,"Wipkingen","Übrige Eigentümerschaften","Neubau auf unbebautem Land",8,440,25,0,0,14,0,6,0,6
+2017,2015,102,"Wipkingen","Übrige Eigentümerschaften","Neubau auf unbebautem Land",8,440,22,0,0,9,1,4,0,9
+2017,2016,102,"Wipkingen","Übrige Eigentümerschaften","Neubau auf unbebautem Land",8,440,28,0,0,9,0,6,0,13
+2017,2014,111,"Affoltern","Im Stockwerkeigentum","Altbau (bis 2006)",346,30982,710,190,29,37,126,74,178,78
+2017,2015,111,"Affoltern","Im Stockwerkeigentum","Altbau (bis 2006)",355,31597,728,187,26,52,132,66,194,67
+2017,2016,111,"Affoltern","Im Stockwerkeigentum","Altbau (bis 2006)",370,32803,762,198,23,57,147,68,178,85
+2017,2014,111,"Affoltern","Im Stockwerkeigentum","Neubau als Umnutzung",126,14727,315,90,10,63,28,40,50,34
+2017,2015,111,"Affoltern","Im Stockwerkeigentum","Neubau als Umnutzung",126,14736,314,106,13,49,24,52,44,27
+2017,2016,111,"Affoltern","Im Stockwerkeigentum","Neubau als Umnutzung",151,17866,387,134,13,72,32,52,52,33
+2017,2014,111,"Affoltern","Im Stockwerkeigentum","Neubau als Wohnersatz",16,1565,35,15,0,0,5,2,10,3
+2017,2015,111,"Affoltern","Im Stockwerkeigentum","Neubau als Wohnersatz",18,1736,42,20,0,0,4,6,12,0
+2017,2016,111,"Affoltern","Im Stockwerkeigentum","Neubau als Wohnersatz",18,1729,47,23,0,0,2,6,10,6
+2017,2014,111,"Affoltern","Im Stockwerkeigentum","Neubau auf unbebautem Land",383,46481,1030,464,25,179,67,90,168,36
+2017,2015,111,"Affoltern","Im Stockwerkeigentum","Neubau auf unbebautem Land",386,46800,1007,463,33,153,82,86,162,31
+2017,2016,111,"Affoltern","Im Stockwerkeigentum","Neubau auf unbebautem Land",389,47033,1029,449,25,176,80,80,164,53
+2017,2014,111,"Affoltern","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2829,213803,6631,2930,616,594,999,342,964,186
+2017,2015,111,"Affoltern","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2841,214473,6563,2845,648,607,1039,330,980,119
+2017,2016,111,"Affoltern","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2875,218368,6615,2882,699,562,1050,358,966,102
+2017,2014,111,"Affoltern","Öffentl./Genossenschaftl.","Neubau als Umnutzung",258,24104,688,371,47,61,62,28,100,18
+2017,2015,111,"Affoltern","Öffentl./Genossenschaftl.","Neubau als Umnutzung",258,24109,681,389,53,46,61,36,90,10
+2017,2016,111,"Affoltern","Öffentl./Genossenschaftl.","Neubau als Umnutzung",260,24335,688,392,49,47,64,32,98,7
+2017,2014,111,"Affoltern","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",361,37076,914,421,28,108,97,90,126,38
+2017,2015,111,"Affoltern","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",365,37579,937,441,35,119,97,90,120,33
+2017,2016,111,"Affoltern","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",367,37705,934,460,38,97,97,84,120,40
+2017,2014,111,"Affoltern","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",605,57186,1641,966,105,140,143,104,156,32
+2017,2015,111,"Affoltern","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",605,57304,1655,976,111,161,146,94,140,21
+2017,2016,111,"Affoltern","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",613,58072,1680,993,119,165,143,96,150,12
+2017,2014,111,"Affoltern","Übrige Eigentümerschaften","Altbau (bis 2006)",5120,383800,10631,3067,571,1011,2103,1416,1480,962
+2017,2015,111,"Affoltern","Übrige Eigentümerschaften","Altbau (bis 2006)",5076,380988,10525,3136,578,913,2087,1416,1432,960
+2017,2016,111,"Affoltern","Übrige Eigentümerschaften","Altbau (bis 2006)",5130,383873,10547,3241,584,864,2130,1466,1434,816
+2017,2014,111,"Affoltern","Übrige Eigentümerschaften","Neubau als Umnutzung",510,45679,1121,312,66,126,171,186,146,109
+2017,2015,111,"Affoltern","Übrige Eigentümerschaften","Neubau als Umnutzung",516,46427,1145,364,63,103,167,206,144,95
+2017,2016,111,"Affoltern","Übrige Eigentümerschaften","Neubau als Umnutzung",526,47064,1177,384,76,103,170,210,138,88
+2017,2014,111,"Affoltern","Übrige Eigentümerschaften","Neubau als Wohnersatz",42,4616,97,24,6,17,7,22,18,3
+2017,2015,111,"Affoltern","Übrige Eigentümerschaften","Neubau als Wohnersatz",44,4892,113,37,10,19,7,18,12,10
+2017,2016,111,"Affoltern","Übrige Eigentümerschaften","Neubau als Wohnersatz",68,6795,152,54,10,18,20,20,24,6
+2017,2014,111,"Affoltern","Übrige Eigentümerschaften","Neubau auf unbebautem Land",419,41398,987,388,31,97,117,154,120,79
+2017,2015,111,"Affoltern","Übrige Eigentümerschaften","Neubau auf unbebautem Land",423,42016,1014,414,33,90,110,168,120,82
+2017,2016,111,"Affoltern","Übrige Eigentümerschaften","Neubau auf unbebautem Land",424,42015,1022,455,35,101,114,160,90,66
+2017,2014,115,"Oerlikon","Im Stockwerkeigentum","Altbau (bis 2006)",824,65104,1595,340,38,144,356,266,262,184
+2017,2015,115,"Oerlikon","Im Stockwerkeigentum","Altbau (bis 2006)",823,65383,1569,357,35,109,361,258,264,179
+2017,2016,115,"Oerlikon","Im Stockwerkeigentum","Altbau (bis 2006)",820,65160,1585,375,47,109,361,258,250,187
+2017,2014,115,"Oerlikon","Im Stockwerkeigentum","Neubau als Umnutzung",15,2148,51,24,0,14,1,0,12,0
+2017,2015,115,"Oerlikon","Im Stockwerkeigentum","Neubau als Umnutzung",15,2163,56,25,0,19,1,0,8,3
+2017,2016,115,"Oerlikon","Im Stockwerkeigentum","Neubau als Umnutzung",14,2034,51,23,0,14,1,0,6,7
+2017,2014,115,"Oerlikon","Im Stockwerkeigentum","Neubau als Wohnersatz",99,11185,247,93,9,32,23,36,24,31
+2017,2015,115,"Oerlikon","Im Stockwerkeigentum","Neubau als Wohnersatz",104,11582,263,94,14,33,23,36,34,28
+2017,2016,115,"Oerlikon","Im Stockwerkeigentum","Neubau als Wohnersatz",107,12066,274,110,10,36,25,34,34,25
+2017,2014,115,"Oerlikon","Im Stockwerkeigentum","Neubau auf unbebautem Land",12,1878,33,10,0,6,0,4,10,3
+2017,2015,115,"Oerlikon","Im Stockwerkeigentum","Neubau auf unbebautem Land",29,4513,87,54,0,6,2,8,14,3
+2017,2016,115,"Oerlikon","Im Stockwerkeigentum","Neubau auf unbebautem Land",30,4659,88,55,0,5,3,8,14,3
+2017,2014,115,"Oerlikon","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1222,96360,2813,1175,321,219,457,228,288,116
+2017,2015,115,"Oerlikon","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1250,96965,2865,1143,312,262,472,268,260,148
+2017,2016,115,"Oerlikon","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1196,94089,2740,1176,282,233,471,206,264,109
+2017,2014,115,"Oerlikon","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",68,6313,170,73,23,12,17,6,26,13
+2017,2015,115,"Oerlikon","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",68,6284,167,70,27,11,14,10,24,13
+2017,2016,115,"Oerlikon","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",70,6511,174,87,29,4,18,6,24,6
+2017,2014,115,"Oerlikon","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",47,4482,131,79,5,4,12,10,8,13
+2017,2015,115,"Oerlikon","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",46,4425,128,70,9,5,11,8,12,13
+2017,2016,115,"Oerlikon","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",46,4395,133,73,9,10,10,8,12,10
+2017,2014,115,"Oerlikon","Übrige Eigentümerschaften","Altbau (bis 2006)",7945,595609,15110,3529,586,892,3696,2840,1726,1777
+2017,2015,115,"Oerlikon","Übrige Eigentümerschaften","Altbau (bis 2006)",7815,585492,15008,3548,539,919,3583,2850,1678,1813
+2017,2016,115,"Oerlikon","Übrige Eigentümerschaften","Altbau (bis 2006)",7805,586198,14995,3630,542,866,3563,2922,1678,1776
+2017,2014,115,"Oerlikon","Übrige Eigentümerschaften","Neubau als Umnutzung",143,12133,277,80,7,14,66,42,30,34
+2017,2015,115,"Oerlikon","Übrige Eigentümerschaften","Neubau als Umnutzung",181,14855,335,82,9,30,70,50,44,33
+2017,2016,115,"Oerlikon","Übrige Eigentümerschaften","Neubau als Umnutzung",198,16175,371,103,11,12,93,80,42,33
+2017,2014,115,"Oerlikon","Übrige Eigentümerschaften","Neubau als Wohnersatz",56,5359,112,44,0,0,17,36,18,0
+2017,2015,115,"Oerlikon","Übrige Eigentümerschaften","Neubau als Wohnersatz",56,5335,122,47,0,6,16,32,16,3
+2017,2016,115,"Oerlikon","Übrige Eigentümerschaften","Neubau als Wohnersatz",105,9452,209,76,0,0,37,62,26,8
+2017,2014,115,"Oerlikon","Übrige Eigentümerschaften","Neubau auf unbebautem Land",12,939,18,0,0,5,9,2,2,0
+2017,2015,115,"Oerlikon","Übrige Eigentümerschaften","Neubau auf unbebautem Land",39,3187,76,15,2,9,16,20,8,6
+2017,2016,115,"Oerlikon","Übrige Eigentümerschaften","Neubau auf unbebautem Land",39,3159,77,23,2,4,14,20,10,6
+2017,2014,119,"Seebach","Im Stockwerkeigentum","Altbau (bis 2006)",710,66453,1570,451,64,199,239,172,334,103
+2017,2015,119,"Seebach","Im Stockwerkeigentum","Altbau (bis 2006)",718,67032,1599,483,59,202,246,166,326,114
+2017,2016,119,"Seebach","Im Stockwerkeigentum","Altbau (bis 2006)",712,66479,1596,494,48,173,226,190,332,131
+2017,2014,119,"Seebach","Im Stockwerkeigentum","Neubau als Umnutzung",48,5647,105,44,11,0,16,10,18,6
+2017,2015,119,"Seebach","Im Stockwerkeigentum","Neubau als Umnutzung",124,13914,237,67,10,0,50,48,38,19
+2017,2016,119,"Seebach","Im Stockwerkeigentum","Neubau als Umnutzung",205,22766,387,83,15,7,76,92,80,34
+2017,2014,119,"Seebach","Im Stockwerkeigentum","Neubau als Wohnersatz",89,9936,226,83,6,27,21,30,26,31
+2017,2015,119,"Seebach","Im Stockwerkeigentum","Neubau als Wohnersatz",105,11562,266,86,6,52,26,30,36,29
+2017,2016,119,"Seebach","Im Stockwerkeigentum","Neubau als Wohnersatz",109,12010,300,86,8,78,24,34,30,37
+2017,2014,119,"Seebach","Im Stockwerkeigentum","Neubau auf unbebautem Land",143,16821,337,103,8,39,43,48,48,43
+2017,2015,119,"Seebach","Im Stockwerkeigentum","Neubau auf unbebautem Land",165,19540,384,113,16,29,41,62,70,51
+2017,2016,119,"Seebach","Im Stockwerkeigentum","Neubau auf unbebautem Land",112,13542,261,100,5,21,30,34,44,27
+2017,2014,119,"Seebach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2313,179088,5438,2269,599,528,783,410,680,159
+2017,2015,119,"Seebach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2123,158867,4959,2060,593,461,733,364,624,131
+2017,2016,119,"Seebach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2090,156042,4867,2082,575,401,733,354,590,133
+2017,2014,119,"Seebach","Öffentl./Genossenschaftl.","Neubau als Umnutzung",16,1734,39,10,0,5,1,10,10,3
+2017,2015,119,"Seebach","Öffentl./Genossenschaftl.","Neubau als Umnutzung",16,1734,41,13,0,4,2,4,12,3
+2017,2016,119,"Seebach","Öffentl./Genossenschaftl.","Neubau als Umnutzung",17,1786,43,20,0,4,2,2,12,3
+2017,2014,119,"Seebach","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",480,46499,1279,671,54,142,104,88,194,28
+2017,2015,119,"Seebach","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",546,52754,1473,801,71,134,110,112,218,29
+2017,2016,119,"Seebach","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",554,53361,1473,829,81,108,123,106,206,23
+2017,2014,119,"Seebach","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",224,19700,544,252,19,67,76,32,84,13
+2017,2015,119,"Seebach","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",243,21716,595,285,24,78,84,34,82,10
+2017,2016,119,"Seebach","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",245,21827,584,310,28,38,89,32,80,10
+2017,2014,119,"Seebach","Übrige Eigentümerschaften","Altbau (bis 2006)",6330,444245,12563,3227,576,1087,2853,1856,1558,1385
+2017,2015,119,"Seebach","Übrige Eigentümerschaften","Altbau (bis 2006)",6494,462859,13068,3487,641,1105,2878,1920,1612,1427
+2017,2016,119,"Seebach","Übrige Eigentümerschaften","Altbau (bis 2006)",6484,462767,13063,3672,649,1089,2904,1848,1544,1352
+2017,2014,119,"Seebach","Übrige Eigentümerschaften","Neubau als Umnutzung",543,39495,921,109,8,44,263,288,114,90
+2017,2015,119,"Seebach","Übrige Eigentümerschaften","Neubau als Umnutzung",544,39476,952,145,8,49,263,256,130,93
+2017,2016,119,"Seebach","Übrige Eigentümerschaften","Neubau als Umnutzung",598,44510,1048,199,15,57,283,298,144,54
+2017,2014,119,"Seebach","Übrige Eigentümerschaften","Neubau als Wohnersatz",44,3957,83,31,3,0,23,20,2,6
+2017,2015,119,"Seebach","Übrige Eigentümerschaften","Neubau als Wohnersatz",80,7291,167,58,3,4,28,34,20,12
+2017,2016,119,"Seebach","Übrige Eigentümerschaften","Neubau als Wohnersatz",109,9494,210,62,3,8,47,54,20,9
+2017,2014,119,"Seebach","Übrige Eigentümerschaften","Neubau auf unbebautem Land",46,5483,114,58,4,4,11,18,2,18
+2017,2015,119,"Seebach","Übrige Eigentümerschaften","Neubau auf unbebautem Land",43,5136,109,46,2,16,10,18,4,13
+2017,2016,119,"Seebach","Übrige Eigentümerschaften","Neubau auf unbebautem Land",102,11875,267,112,5,36,21,52,14,27
+2017,2014,121,"Saatlen","Im Stockwerkeigentum","Altbau (bis 2006)",80,8164,149,31,2,17,35,8,50,6
+2017,2015,121,"Saatlen","Im Stockwerkeigentum","Altbau (bis 2006)",79,8220,151,33,2,14,32,14,46,9
+2017,2016,121,"Saatlen","Im Stockwerkeigentum","Altbau (bis 2006)",79,8154,147,31,2,9,34,12,46,13
+2017,2014,121,"Saatlen","Im Stockwerkeigentum","Neubau als Umnutzung",12,1022,24,7,0,0,4,8,2,3
+2017,2015,121,"Saatlen","Im Stockwerkeigentum","Neubau als Umnutzung",18,1704,44,13,0,11,5,2,10,3
+2017,2016,121,"Saatlen","Im Stockwerkeigentum","Neubau als Umnutzung",18,1704,45,13,0,11,5,4,6,6
+2017,2014,121,"Saatlen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1857,154197,4946,2414,502,489,510,332,536,155
+2017,2015,121,"Saatlen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1861,154153,4841,2395,505,380,546,342,548,119
+2017,2016,121,"Saatlen","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1748,144671,4529,2363,541,267,532,250,522,57
+2017,2014,121,"Saatlen","Öffentl./Genossenschaftl.","Neubau als Umnutzung",50,5462,158,98,18,2,10,8,2,29
+2017,2015,121,"Saatlen","Öffentl./Genossenschaftl.","Neubau als Umnutzung",357,39000,1177,503,95,130,52,108,38,251
+2017,2016,121,"Saatlen","Öffentl./Genossenschaftl.","Neubau als Umnutzung",359,39773,1226,560,88,136,51,98,40,254
+2017,2014,121,"Saatlen","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",169,16757,455,253,21,43,31,46,48,9
+2017,2015,121,"Saatlen","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",168,16679,466,291,26,29,29,44,44,3
+2017,2016,121,"Saatlen","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",169,16758,464,288,24,29,32,44,40,9
+2017,2014,121,"Saatlen","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",4,652,18,13,0,5,0,0,0,0
+2017,2015,121,"Saatlen","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",4,652,19,9,0,10,0,0,0,0
+2017,2016,121,"Saatlen","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",4,652,18,13,0,5,0,0,0,0
+2017,2014,121,"Saatlen","Übrige Eigentümerschaften","Altbau (bis 2006)",771,55708,1655,430,97,225,309,200,202,201
+2017,2015,121,"Saatlen","Übrige Eigentümerschaften","Altbau (bis 2006)",780,56466,1680,450,103,208,308,218,206,193
+2017,2016,121,"Saatlen","Übrige Eigentümerschaften","Altbau (bis 2006)",786,56776,1666,454,91,195,326,190,206,196
+2017,2016,121,"Saatlen","Übrige Eigentümerschaften","Neubau auf unbebautem Land",62,3694,73,0,0,0,52,16,2,3
+2017,2014,122,"Schwamendingen-Mitte","Im Stockwerkeigentum","Altbau (bis 2006)",282,23576,571,148,11,59,113,80,118,39
+2017,2015,122,"Schwamendingen-Mitte","Im Stockwerkeigentum","Altbau (bis 2006)",290,24113,573,147,11,55,124,78,112,45
+2017,2016,122,"Schwamendingen-Mitte","Im Stockwerkeigentum","Altbau (bis 2006)",297,24700,587,159,16,47,126,84,110,45
+2017,2014,122,"Schwamendingen-Mitte","Im Stockwerkeigentum","Neubau als Umnutzung",84,8853,179,54,5,5,25,36,32,22
+2017,2015,122,"Schwamendingen-Mitte","Im Stockwerkeigentum","Neubau als Umnutzung",86,9006,182,61,8,9,26,34,32,13
+2017,2016,122,"Schwamendingen-Mitte","Im Stockwerkeigentum","Neubau als Umnutzung",86,8921,184,65,5,11,25,38,30,10
+2017,2014,122,"Schwamendingen-Mitte","Im Stockwerkeigentum","Neubau als Wohnersatz",18,2257,43,23,0,0,4,4,12,0
+2017,2015,122,"Schwamendingen-Mitte","Im Stockwerkeigentum","Neubau als Wohnersatz",35,3608,75,34,2,0,11,14,14,0
+2017,2016,122,"Schwamendingen-Mitte","Im Stockwerkeigentum","Neubau als Wohnersatz",36,3718,77,37,2,0,12,12,14,0
+2017,2014,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1653,116061,3341,1063,269,257,736,344,446,223
+2017,2015,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1667,116810,3406,1073,289,237,715,362,472,242
+2017,2016,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Altbau (bis 2006)",1620,113991,3266,1060,295,224,712,332,456,188
+2017,2014,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Neubau als Umnutzung",8,862,28,22,0,4,2,0,0,0
+2017,2015,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Neubau als Umnutzung",8,862,27,22,0,0,2,0,0,3
+2017,2016,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Neubau als Umnutzung",8,862,26,21,0,3,2,0,0,0
+2017,2014,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",105,9662,186,33,4,4,44,44,48,7
+2017,2015,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",105,9662,193,48,4,4,45,38,38,18
+2017,2016,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",151,13989,297,86,13,12,55,60,64,7
+2017,2014,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",38,3595,94,51,3,19,14,4,6,0
+2017,2015,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",38,3595,97,52,3,14,12,8,8,0
+2017,2016,122,"Schwamendingen-Mitte","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",39,3656,100,59,5,8,12,10,6,0
+2017,2014,122,"Schwamendingen-Mitte","Übrige Eigentümerschaften","Altbau (bis 2006)",3215,209055,6443,1706,296,639,1462,832,840,654
+2017,2015,122,"Schwamendingen-Mitte","Übrige Eigentümerschaften","Altbau (bis 2006)",3230,210189,6365,1731,305,508,1476,840,848,653
+2017,2016,122,"Schwamendingen-Mitte","Übrige Eigentümerschaften","Altbau (bis 2006)",3177,208090,6267,1718,333,480,1423,892,846,586
+2017,2014,122,"Schwamendingen-Mitte","Übrige Eigentümerschaften","Neubau als Wohnersatz",41,3003,84,42,2,0,17,8,8,7
+2017,2015,122,"Schwamendingen-Mitte","Übrige Eigentümerschaften","Neubau als Wohnersatz",41,3058,74,29,2,0,20,8,12,0
+2017,2016,122,"Schwamendingen-Mitte","Übrige Eigentümerschaften","Neubau als Wohnersatz",43,3125,77,23,2,4,21,4,12,10
+2017,2014,122,"Schwamendingen-Mitte","Übrige Eigentümerschaften","Neubau auf unbebautem Land",3,114,3,".",".",".",".",".",".","."
+2017,2015,122,"Schwamendingen-Mitte","Übrige Eigentümerschaften","Neubau auf unbebautem Land",7,390,8,".",".",".",".",".",".","."
+2017,2016,122,"Schwamendingen-Mitte","Übrige Eigentümerschaften","Neubau auf unbebautem Land",3,300,5,".",".",".",".",".",".","."
+2017,2014,123,"Hirzenbach","Im Stockwerkeigentum","Altbau (bis 2006)",201,17499,562,225,36,101,55,28,56,58
+2017,2015,123,"Hirzenbach","Im Stockwerkeigentum","Altbau (bis 2006)",200,17553,554,216,43,83,57,32,46,68
+2017,2016,123,"Hirzenbach","Im Stockwerkeigentum","Altbau (bis 2006)",200,17455,532,220,32,84,62,34,44,57
+2017,2014,123,"Hirzenbach","Im Stockwerkeigentum","Neubau als Wohnersatz",7,789,20,6,0,9,1,4,0,0
+2017,2015,123,"Hirzenbach","Im Stockwerkeigentum","Neubau als Wohnersatz",7,789,18,0,0,9,1,2,6,0
+2017,2016,123,"Hirzenbach","Im Stockwerkeigentum","Neubau als Wohnersatz",14,1688,30,0,0,13,5,2,10,0
+2017,2014,123,"Hirzenbach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2160,146656,4690,1934,450,341,899,270,720,84
+2017,2015,123,"Hirzenbach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2163,145447,4623,1885,459,266,915,310,666,87
+2017,2016,123,"Hirzenbach","Öffentl./Genossenschaftl.","Altbau (bis 2006)",2099,143123,4549,1931,417,242,858,312,654,140
+2017,2014,123,"Hirzenbach","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",201,17588,498,143,22,95,61,78,70,32
+2017,2015,123,"Hirzenbach","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",384,34906,971,270,33,152,90,118,114,40
+2017,2016,123,"Hirzenbach","Öffentl./Genossenschaftl.","Neubau als Wohnersatz",406,36896,1038,402,49,162,94,132,144,54
+2017,2014,123,"Hirzenbach","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",11,1229,57,40,0,17,0,0,0,0
+2017,2015,123,"Hirzenbach","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",11,1229,57,38,0,17,0,0,2,0
+2017,2016,123,"Hirzenbach","Öffentl./Genossenschaftl.","Neubau auf unbebautem Land",11,1229,57,38,0,17,0,0,2,0
+2017,2014,123,"Hirzenbach","Übrige Eigentümerschaften","Altbau (bis 2006)",2321,155698,5028,1699,352,514,919,516,584,464
+2017,2015,123,"Hirzenbach","Übrige Eigentümerschaften","Altbau (bis 2006)",2322,156509,5011,1736,369,450,914,512,596,431
+2017,2016,123,"Hirzenbach","Übrige Eigentümerschaften","Altbau (bis 2006)",2319,156623,5008,1765,360,475,920,506,594,393
+2017,2014,123,"Hirzenbach","Übrige Eigentümerschaften","Neubau als Umnutzung",112,9393,192,23,0,8,48,54,48,12
+2017,2015,123,"Hirzenbach","Übrige Eigentümerschaften","Neubau als Umnutzung",125,10532,221,33,0,8,54,52,54,15
+2017,2016,123,"Hirzenbach","Übrige Eigentümerschaften","Neubau als Umnutzung",128,10889,233,41,0,0,50,60,48,34
+2017,2014,123,"Hirzenbach","Übrige Eigentümerschaften","Neubau als Wohnersatz",119,9906,232,48,10,8,41,84,18,26
+2017,2015,123,"Hirzenbach","Übrige Eigentümerschaften","Neubau als Wohnersatz",118,9852,253,53,7,23,39,70,16,48
+2017,2016,123,"Hirzenbach","Übrige Eigentümerschaften","Neubau als Wohnersatz",276,23332,552,117,23,25,89,176,54,69
+2017,2014,123,"Hirzenbach","Übrige Eigentümerschaften","Neubau auf unbebautem Land",2,112,".",".",".",".",".",".",".","."
+2017,2015,123,"Hirzenbach","Übrige Eigentümerschaften","Neubau auf unbebautem Land",2,112,".",".",".",".",".",".",".","."
+2017,2016,123,"Hirzenbach","Übrige Eigentümerschaften","Neubau auf unbebautem Land",3,218,5,".",".",".",".",".",".","."
